@@ -10,44 +10,55 @@
         <mark key="^" line="121" column="26" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/config/DefaultSummary.java" timestamp="1525084363907" />
-      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupServlet.java" timestamp="1525085562657" />
-      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupFilter.java" timestamp="1525086259904" />
-      <file name="/fragment.java" timestamp="1525086650049">
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupServlet.java" timestamp="1525087780107">
+        <mark key="[" line="924" column="121" />
+        <mark key="]" line="924" column="121" />
+        <mark key="." line="924" column="121" />
+        <mark key="^" line="924" column="31" />
+      </file>
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupFilter.java" timestamp="1525086706380" />
+      <file name="/fragment.java" timestamp="1525087610937">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/org/forgerock/openam/sm/SmsAnnotatedServiceRegistry.java" timestamp="1525082864227" />
     </filemarks>
     <jumps />
     <registers>
+      <register name="0" type="4">
+        <text>isDITLoaded ? ConfigurationStatus.ALREADY_CONFIGURED : ConfigurationStatus.FIRST_TIME_INSTALL</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiQkFORyEiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm90aWZ5QW1TdGFydHVwKGNvbmZpZ3VyYXRpb25TdGF0dXMpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>true</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5TZXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiQkFORyEiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmltcG9ydCBvcmcuZm9yZ2Vyb2NrLmd1aWNlLmNvcmUuSW5qZWN0b3JIb2xkZXI7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5TZXQ7Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CmltcG9ydCBvcmcuZm9yZ2Vyb2NrLmd1aWNlLmNvcmUuSW5qZWN0b3JIb2xkZXI7Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uQ29sbGVjdG9yczs7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5TZXQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LWltcG9ydCBqYXZhLnV0aWwuQ29sbGVjdGlvbnM7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uQ29sbGVjdG9yczs7Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">LWltcG9ydCBqYXZhLnV0aWwuQ29sbGVjdGlvbnM7Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uQ29sbGVjdG9yczsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>true</text>
       </register>
     </registers>
     <search>
