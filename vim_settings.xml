@@ -11,10 +11,10 @@
         <mark key="^" line="121" column="26" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/config/DefaultSummary.java" timestamp="1525084363907" />
-      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupServlet.java" timestamp="1525097260008">
-        <mark key="[" line="604" column="0" />
-        <mark key="]" line="604" column="0" />
-        <mark key="." line="604" column="0" />
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupServlet.java" timestamp="1525098016052">
+        <mark key="[" line="1823" column="111" />
+        <mark key="]" line="1823" column="111" />
+        <mark key="." line="1823" column="111" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupFilter.java" timestamp="1525086706380" />
       <file name="/fragment.java" timestamp="1525096225035">
@@ -36,11 +36,11 @@
       <jump line="613" column="9" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupServlet.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>Fi</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3cml0ZUJhZENvbmZpZ3VyYXRpb25GaWxlXD4=</text>
@@ -96,6 +96,7 @@
       <history-cmd>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry>1820</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
