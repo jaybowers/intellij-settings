@@ -3,68 +3,99 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-auth-trees/auth-trees-engine/src/main/java/org/forgerock/openam/auth/nodes/framework/FrameworkNodesPlugin.java" timestamp="1525083629891">
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-auth-trees/auth-trees-engine/src/main/java/org/forgerock/openam/auth/nodes/framework/FrameworkNodesPlugin.java" timestamp="1525094264161">
+        <mark key="'" line="125" column="16" />
         <mark key="[" line="121" column="23" />
         <mark key="]" line="121" column="26" />
         <mark key="." line="121" column="26" />
         <mark key="^" line="121" column="26" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/config/DefaultSummary.java" timestamp="1525084363907" />
-      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupServlet.java" timestamp="1525092624710" />
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupServlet.java" timestamp="1525097260008">
+        <mark key="[" line="604" column="0" />
+        <mark key="]" line="604" column="0" />
+        <mark key="." line="604" column="0" />
+      </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupFilter.java" timestamp="1525086706380" />
-      <file name="/fragment.java" timestamp="1525087610937">
+      <file name="/fragment.java" timestamp="1525096225035">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/org/forgerock/openam/sm/SmsAnnotatedServiceRegistry.java" timestamp="1525082864227" />
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="144" column="17" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-auth-trees/auth-trees-engine/src/main/java/org/forgerock/openam/auth/nodes/framework/FrameworkNodesPlugin.java" />
+      <jump line="139" column="17" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-auth-trees/auth-trees-engine/src/main/java/org/forgerock/openam/auth/nodes/framework/FrameworkNodesPlugin.java" />
+      <jump line="125" column="16" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-auth-trees/auth-trees-engine/src/main/java/org/forgerock/openam/auth/nodes/framework/FrameworkNodesPlugin.java" />
+      <jump line="1819" column="12" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupServlet.java" />
+      <jump line="250" column="26" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupServlet.java" />
+      <jump line="256" column="47" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupServlet.java" />
+      <jump line="496" column="12" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupServlet.java" />
+      <jump line="1818" column="24" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupServlet.java" />
+      <jump line="216" column="8" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupServlet.java" />
+      <jump line="573" column="12" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupServlet.java" />
+      <jump line="613" column="9" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupServlet.java" />
+    </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>isDITLoaded ? ConfigurationStatus.ALREADY_CONFIGURED : ConfigurationStatus.FIRST_TIME_INSTALL</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>Fi</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDx3cml0ZUJhZENvbmZpZ3VyYXRpb25GaWxlXD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBGaWxlIGJhZENvbmZpZ3VyYXRpb24gPSBuZXcgRmlsZShnZXRCYXNlRGlyKCksICJiYWQuY29uZmlndXJhdGlvbiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm90aWZ5QW1TdGFydHVwKGNvbmZpZ3VyYXRpb25TdGF0dXMpOwo=</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>true</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiQkFORyEiKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5TZXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYmFkQ29uZmlndXJhdGlvbi5leGlzdHMoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmltcG9ydCBvcmcuZm9yZ2Vyb2NrLmd1aWNlLmNvcmUuSW5qZWN0b3JIb2xkZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBGaWxlIGJhZENvbmZpZ3VyYXRpb24gPSBuZXcgRmlsZShnZXRCYXNlRGlyKCksICJiYWQuY29uZmlndXJhdGlvbiIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5TZXQ7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGJvb2xlYW4gaXNCYWRDb25maWd1cmF0aW9uKCkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uQ29sbGVjdG9yczs7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LWltcG9ydCBqYXZhLnV0aWwuQ29sbGVjdGlvbnM7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uQ29sbGVjdG9yczsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text>true</text>
-      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDx3cml0ZUJhZENvbmZpZ3VyYXRpb25GaWxlXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDx3cml0ZUJhZENvbmZpZ3VyYXRpb25GaWxlXD4=</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDxpbnN0YWxsRXhhbXBsZVRyZWVcPg==</entry>
+        <entry encoding="base64">XDxpc0N1cnJlbnRDb25maWd1cmF0aW9uVmFsaWRcPg==</entry>
+        <entry encoding="base64">XDxub3RpZnlBbVN0YXJ0dXBcPg==</entry>
+        <entry encoding="base64">XDx3cml0ZUJhZENvbmZpZ3VyYXRpb25GaWxlXD4=</entry>
+      </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -76,6 +107,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
