@@ -10,12 +10,7 @@
         <mark key="^" line="121" column="26" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/config/DefaultSummary.java" timestamp="1525084363907" />
-      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupServlet.java" timestamp="1525087780107">
-        <mark key="[" line="924" column="121" />
-        <mark key="]" line="924" column="121" />
-        <mark key="." line="924" column="121" />
-        <mark key="^" line="924" column="31" />
-      </file>
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupServlet.java" timestamp="1525092624710" />
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupFilter.java" timestamp="1525086706380" />
       <file name="/fragment.java" timestamp="1525087610937">
         <mark key="[" line="0" column="0" />
