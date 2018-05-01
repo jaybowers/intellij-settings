@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/TreeResultContext.java" timestamp="1525169448473" />
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/FailureProcessTreeResult.java" timestamp="1525168210266">
+        <mark key="'" line="63" column="12" />
+      </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-auth-trees/auth-trees-engine/src/main/java/org/forgerock/openam/auth/nodes/framework/FrameworkNodesPlugin.java" timestamp="1525094264161">
         <mark key="'" line="125" column="16" />
         <mark key="[" line="121" column="23" />
@@ -10,16 +14,12 @@
         <mark key="." line="121" column="26" />
         <mark key="^" line="121" column="26" />
       </file>
-      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/SuccessProcessTreeResult.java" timestamp="1525166840875">
-        <mark key="'" line="95" column="37" />
-        <mark key="[" line="112" column="122" />
-        <mark key="]" line="117" column="92" />
-        <mark key="." line="117" column="92" />
-      </file>
-      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupServlet.java" timestamp="1525098016052">
-        <mark key="[" line="1823" column="111" />
-        <mark key="]" line="1823" column="111" />
-        <mark key="." line="1823" column="111" />
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/SuccessProcessTreeResult.java" timestamp="1525170201309" />
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-auth-trees/auth-nodes/src/main/java/org/forgerock/openam/auth/nodes/ZeroPageLoginNode.java" timestamp="1525169535822" />
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupServlet.java" timestamp="1525169179189">
+        <mark key="[" line="1822" column="111" />
+        <mark key="]" line="1822" column="111" />
+        <mark key="." line="1822" column="111" />
       </file>
       <file name="/fragment.java" timestamp="1525096225035">
         <mark key="[" line="0" column="0" />
@@ -47,55 +47,62 @@
       <jump line="80" column="14" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/SuccessProcessTreeResult.java" />
       <jump line="87" column="84" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/SuccessProcessTreeResult.java" />
       <jump line="95" column="37" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/SuccessProcessTreeResult.java" />
+      <jump line="33" column="59" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/FailureProcessTreeResult.java" />
+      <jump line="39" column="14" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/FailureProcessTreeResult.java" />
+      <jump line="45" column="53" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/FailureProcessTreeResult.java" />
+      <jump line="48" column="46" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/FailureProcessTreeResult.java" />
+      <jump line="63" column="12" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/FailureProcessTreeResult.java" />
+      <jump line="164" column="8" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/SuccessProcessTreeResult.java" />
+      <jump line="111" column="12" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/SuccessProcessTreeResult.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdG9kbyBPUEVOQU0tMTMwMDQgLSBBdWRpdCBhbmQgbW9uaXRvciBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Response response =</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdXRoZW50aWNhdGlvbk1vbml0b3JcPg==</text>
+        <text encoding="base64">XDx1cGRhdGVNZXRyaWNzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBGaWxlIGJhZENvbmZpZ3VyYXRpb24gPSBuZXcgRmlsZShnZXRCYXNlRGlyKCksICJiYWQuY29uZmlndXJhdGlvbiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdG9kbyBPUEVOQU0tMTMwMDQgLSBBdWRpdCBhbmQgbW9uaXRvciBoZXJlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdW5pdmVyc2FsSWRlbnRpZmllciA9IGdldFVuaXZlcnNhbElkZW50aWZpZXIocmVzdWx0LCB0cmVlUmVzdWx0Q29udGV4dCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYmFkQ29uZmlndXJhdGlvbi5leGlzdHMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXV0aGVudGljYXRpb25Nb25pdG9yLmF1dGhlbnRpY2F0aW9uU3VjY2VzcygpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlIGJhZENvbmZpZ3VyYXRpb24gPSBuZXcgRmlsZShnZXRCYXNlRGlyKCksICJiYWQuY29uZmlndXJhdGlvbiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXVkaXRvci5nZXQoKS5hdWRpdExvZ2luU3VjY2VzcyhyZXN1bHQsIHRyZWVSZXN1bHRDb250ZXh0LmF1dGhUcmVlLCBDbGllbnRVdGlscy5nZXRDbGllbnRJUEFkZHJlc3ModHJlZVJlc3VsdENvbnRleHQubG9naW5Db25maWd1cmF0aW9uLmdldEh0dHBSZXF1ZXN0KCkpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGJvb2xlYW4gaXNCYWRDb25maWd1cmF0aW9uKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlRmFjdG9yeS5jcmVhdGVSZXNwb25zZSgKICAgICAgICAgICAgICAgICAgICB0cmVlUmVzdWx0Q29udGV4dC50cmFuc2FjdGlvbkhlbHBlci50cmFuc2FjdGlvblN1Y2Nlc3ModHJlZVJlc3VsdENvbnRleHQudHJhbnNhY3Rpb24sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cmVlUmVzdWx0Q29udGV4dC5sb2dpbkNvbmZpZ3VyYXRpb24sIHRyZWVSZXN1bHRDb250ZXh0LnJlYWxtLCB0cmVlUmVzdWx0Q29udGV4dC5zdWNjZXNzVXJsKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhdXRoZW50aWNhdGlvbk1vbml0b3JcPg==</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVNZXRyaWNzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdXRoZW50aWNhdGlvbk1vbml0b3JcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVNZXRyaWNzXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -107,6 +114,9 @@
         <entry encoding="base64">XDx3cml0ZUJhZENvbmZpZ3VyYXRpb25GaWxlXD4=</entry>
         <entry encoding="base64">XDxhdWRpdG9yXD4=</entry>
         <entry encoding="base64">XDxhdXRoZW50aWNhdGlvbk1vbml0b3JcPg==</entry>
+        <entry encoding="base64">XDxhdXRoZW50aWNhdGlvblRyZWVFdmVudEF1ZGl0b3JcPg==</entry>
+        <entry encoding="base64">XDxhdWRpdExvZ2luU3VjY2Vzc1w+</entry>
+        <entry encoding="base64">XDx1cGRhdGVNZXRyaWNzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
