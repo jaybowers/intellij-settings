@@ -4,8 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/TreeResultContext.java" timestamp="1525169448473" />
-      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/FailureProcessTreeResult.java" timestamp="1525168210266">
-        <mark key="'" line="63" column="12" />
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/FailureProcessTreeResult.java" timestamp="1525182906309">
+        <mark key="'" line="65" column="12" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="57" column="28" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-auth-trees/auth-trees-engine/src/main/java/org/forgerock/openam/auth/nodes/framework/FrameworkNodesPlugin.java" timestamp="1525094264161">
         <mark key="'" line="125" column="16" />
@@ -56,7 +59,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdG9kbyBPUEVOQU0tMTMwMDQgLSBBdWRpdCBhbmQgbW9uaXRvciBoZXJlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXVkaXRMb2dpbkZhaWx1cmUocmVzdWx0LCB0cmVlUmVzdWx0Q29udGV4dCk7CiAgICAgICAgICAgIHVwZGF0ZU1ldHJpY3MoKTsK</text>
       </register>
       <register name="-" type="4">
         <text>Response response =</text>
@@ -65,7 +68,7 @@
         <text encoding="base64">XDx1cGRhdGVNZXRyaWNzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlIGJhZENvbmZpZ3VyYXRpb24gPSBuZXcgRmlsZShnZXRCYXNlRGlyKCksICJiYWQuY29uZmlndXJhdGlvbiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXVkaXRMb2dpbkZhaWx1cmUocmVzdWx0LCB0cmVlUmVzdWx0Q29udGV4dCk7CiAgICAgICAgICAgIHVwZGF0ZU1ldHJpY3MoKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gdG9kbyBPUEVOQU0tMTMwMDQgLSBBdWRpdCBhbmQgbW9uaXRvciBoZXJlCg==</text>
