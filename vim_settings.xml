@@ -10,17 +10,20 @@
         <mark key="." line="121" column="26" />
         <mark key="^" line="121" column="26" />
       </file>
-      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/config/DefaultSummary.java" timestamp="1525084363907" />
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/SuccessProcessTreeResult.java" timestamp="1525166840875">
+        <mark key="'" line="95" column="37" />
+        <mark key="[" line="112" column="122" />
+        <mark key="]" line="117" column="92" />
+        <mark key="." line="117" column="92" />
+      </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupServlet.java" timestamp="1525098016052">
         <mark key="[" line="1823" column="111" />
         <mark key="]" line="1823" column="111" />
         <mark key="." line="1823" column="111" />
       </file>
-      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupFilter.java" timestamp="1525086706380" />
       <file name="/fragment.java" timestamp="1525096225035">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/org/forgerock/openam/sm/SmsAnnotatedServiceRegistry.java" timestamp="1525082864227" />
     </filemarks>
     <jumps>
       <jump line="144" column="17" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-auth-trees/auth-trees-engine/src/main/java/org/forgerock/openam/auth/nodes/framework/FrameworkNodesPlugin.java" />
@@ -34,6 +37,16 @@
       <jump line="216" column="8" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupServlet.java" />
       <jump line="573" column="12" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupServlet.java" />
       <jump line="613" column="9" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupServlet.java" />
+      <jump line="67" column="59" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/SuccessProcessTreeResult.java" />
+      <jump line="79" column="14" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/SuccessProcessTreeResult.java" />
+      <jump line="94" column="23" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/SuccessProcessTreeResult.java" />
+      <jump line="212" column="8" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/SuccessProcessTreeResult.java" />
+      <jump line="216" column="8" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/SuccessProcessTreeResult.java" />
+      <jump line="217" column="8" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/SuccessProcessTreeResult.java" />
+      <jump line="68" column="40" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/SuccessProcessTreeResult.java" />
+      <jump line="80" column="14" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/SuccessProcessTreeResult.java" />
+      <jump line="87" column="84" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/SuccessProcessTreeResult.java" />
+      <jump line="95" column="37" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/SuccessProcessTreeResult.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -43,7 +56,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3cml0ZUJhZENvbmZpZ3VyYXRpb25GaWxlXD4=</text>
+        <text encoding="base64">XDxhdXRoZW50aWNhdGlvbk1vbml0b3JcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBGaWxlIGJhZENvbmZpZ3VyYXRpb24gPSBuZXcgRmlsZShnZXRCYXNlRGlyKCksICJiYWQuY29uZmlndXJhdGlvbiIpOwo=</text>
@@ -80,9 +93,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3cml0ZUJhZENvbmZpZ3VyYXRpb25GaWxlXD4=</last-search>
+      <last-search encoding="base64">XDxhdXRoZW50aWNhdGlvbk1vbml0b3JcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3cml0ZUJhZENvbmZpZ3VyYXRpb25GaWxlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhdXRoZW50aWNhdGlvbk1vbml0b3JcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -92,6 +105,8 @@
         <entry encoding="base64">XDxpc0N1cnJlbnRDb25maWd1cmF0aW9uVmFsaWRcPg==</entry>
         <entry encoding="base64">XDxub3RpZnlBbVN0YXJ0dXBcPg==</entry>
         <entry encoding="base64">XDx3cml0ZUJhZENvbmZpZ3VyYXRpb25GaWxlXD4=</entry>
+        <entry encoding="base64">XDxhdWRpdG9yXD4=</entry>
+        <entry encoding="base64">XDxhdXRoZW50aWNhdGlvbk1vbml0b3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
