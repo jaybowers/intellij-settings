@@ -3,6 +3,26 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-auth-trees/auth-trees-engine/src/main/java/org/forgerock/openam/auth/nodes/framework/FrameworkNodesPlugin.java" timestamp="1525094264161">
+        <mark key="'" line="125" column="16" />
+        <mark key="[" line="121" column="23" />
+        <mark key="]" line="121" column="26" />
+        <mark key="." line="121" column="26" />
+        <mark key="^" line="121" column="26" />
+      </file>
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/SuccessProcessTreeResult.java" timestamp="1525272989515" />
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/pom.xml" timestamp="1525271854428" />
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-auth-trees/auth-nodes/src/main/java/org/forgerock/openam/auth/nodes/ZeroPageLoginNode.java" timestamp="1525169535822" />
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupServlet.java" timestamp="1525169179189">
+        <mark key="[" line="1822" column="111" />
+        <mark key="]" line="1822" column="111" />
+        <mark key="." line="1822" column="111" />
+      </file>
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/tests/temper-functional-tests/openam-ui-tests/src/test/java/com/forgerock/openam/functionaltest/policy/TestTransactionAuthentication.java" timestamp="1525273725992">
+        <mark key="'" line="1094" column="17" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/forgerock/openam/openam-functional-test-apis/1.0.0-SNAPSHOT/openam-functional-test-apis-1.0.0-20170509.140216-4.jar!/com/forgerock/openam/functionaltest/api/authentication/trees/nodes/UsernameCollector.class" timestamp="1525273531950" />
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/tests/openam-legacy-functional-test-apis/src/main/java/com/forgerock/openam/functionaltest/SessionUtilities.java" timestamp="1525271442039" />
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/TreeResultContext.java" timestamp="1525169448473" />
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/FailureProcessTreeResult.java" timestamp="1525266408415">
         <mark key="'" line="65" column="12" />
@@ -11,26 +31,15 @@
         <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-push-notification/src/main/java/org/forgerock/openam/services/push/PushNotificationServiceConfig.java" timestamp="1525260869135" />
-      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-auth-trees/auth-trees-engine/src/main/java/org/forgerock/openam/auth/nodes/framework/FrameworkNodesPlugin.java" timestamp="1525094264161">
-        <mark key="'" line="125" column="16" />
-        <mark key="[" line="121" column="23" />
-        <mark key="]" line="121" column="26" />
-        <mark key="." line="121" column="26" />
-        <mark key="^" line="121" column="26" />
-      </file>
-      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/SuccessProcessTreeResult.java" timestamp="1525253427999" />
-      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-auth-trees/auth-nodes/src/main/java/org/forgerock/openam/auth/nodes/ZeroPageLoginNode.java" timestamp="1525169535822" />
-      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupServlet.java" timestamp="1525169179189">
-        <mark key="[" line="1822" column="111" />
-        <mark key="]" line="1822" column="111" />
-        <mark key="." line="1822" column="111" />
-      </file>
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/tests/openam-functional-test-apis/src/main/java/com/forgerock/openam/functionaltest/api/authorization/TransactionAuthenticationStrategy.java" timestamp="1525272364385" />
       <file name="/fragment.java" timestamp="1525266201985">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/CoreRestAuthenticationGuiceModule.java" timestamp="1525266599492">
         <mark key="'" line="31" column="50" />
       </file>
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/tests/temper-functional-tests/openam-ui-tests/pom.xml" timestamp="1525271994774" />
+      <file name="$MAVEN_REPOSITORY$/com/forgerock/openam/temper/1.0.0-SNAPSHOT/temper-1.0.0-SNAPSHOT.pom" timestamp="1525271535138" />
     </filemarks>
     <jumps>
       <jump line="144" column="17" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-auth-trees/auth-trees-engine/src/main/java/org/forgerock/openam/auth/nodes/framework/FrameworkNodesPlugin.java" />
@@ -62,6 +71,20 @@
       <jump line="164" column="8" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/SuccessProcessTreeResult.java" />
       <jump line="111" column="12" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/SuccessProcessTreeResult.java" />
       <jump line="31" column="50" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/CoreRestAuthenticationGuiceModule.java" />
+      <jump line="149" column="32" filename="$USER_HOME$/checkouts/forgerock/forks/openam/tests/temper-functional-tests/openam-ui-tests/src/test/java/com/forgerock/openam/functionaltest/policy/TestTransactionAuthentication.java" />
+      <jump line="153" column="32" filename="$USER_HOME$/checkouts/forgerock/forks/openam/tests/temper-functional-tests/openam-ui-tests/src/test/java/com/forgerock/openam/functionaltest/policy/TestTransactionAuthentication.java" />
+      <jump line="157" column="32" filename="$USER_HOME$/checkouts/forgerock/forks/openam/tests/temper-functional-tests/openam-ui-tests/src/test/java/com/forgerock/openam/functionaltest/policy/TestTransactionAuthentication.java" />
+      <jump line="161" column="32" filename="$USER_HOME$/checkouts/forgerock/forks/openam/tests/temper-functional-tests/openam-ui-tests/src/test/java/com/forgerock/openam/functionaltest/policy/TestTransactionAuthentication.java" />
+      <jump line="167" column="32" filename="$USER_HOME$/checkouts/forgerock/forks/openam/tests/temper-functional-tests/openam-ui-tests/src/test/java/com/forgerock/openam/functionaltest/policy/TestTransactionAuthentication.java" />
+      <jump line="173" column="28" filename="$USER_HOME$/checkouts/forgerock/forks/openam/tests/temper-functional-tests/openam-ui-tests/src/test/java/com/forgerock/openam/functionaltest/policy/TestTransactionAuthentication.java" />
+      <jump line="528" column="17" filename="$USER_HOME$/checkouts/forgerock/forks/openam/tests/temper-functional-tests/openam-ui-tests/src/test/java/com/forgerock/openam/functionaltest/policy/TestTransactionAuthentication.java" />
+      <jump line="148" column="45" filename="$USER_HOME$/checkouts/forgerock/forks/openam/tests/temper-functional-tests/openam-ui-tests/src/test/java/com/forgerock/openam/functionaltest/policy/TestTransactionAuthentication.java" />
+      <jump line="262" column="49" filename="$USER_HOME$/checkouts/forgerock/forks/openam/tests/temper-functional-tests/openam-ui-tests/src/test/java/com/forgerock/openam/functionaltest/policy/TestTransactionAuthentication.java" />
+      <jump line="869" column="70" filename="$USER_HOME$/checkouts/forgerock/forks/openam/tests/temper-functional-tests/openam-ui-tests/src/test/java/com/forgerock/openam/functionaltest/policy/TestTransactionAuthentication.java" />
+      <jump line="891" column="70" filename="$USER_HOME$/checkouts/forgerock/forks/openam/tests/temper-functional-tests/openam-ui-tests/src/test/java/com/forgerock/openam/functionaltest/policy/TestTransactionAuthentication.java" />
+      <jump line="283" column="66" filename="$USER_HOME$/checkouts/forgerock/forks/openam/tests/temper-functional-tests/openam-ui-tests/src/test/java/com/forgerock/openam/functionaltest/policy/TestTransactionAuthentication.java" />
+      <jump line="779" column="49" filename="$USER_HOME$/checkouts/forgerock/forks/openam/tests/temper-functional-tests/openam-ui-tests/src/test/java/com/forgerock/openam/functionaltest/policy/TestTransactionAuthentication.java" />
+      <jump line="1094" column="17" filename="$USER_HOME$/checkouts/forgerock/forks/openam/tests/temper-functional-tests/openam-ui-tests/src/test/java/com/forgerock/openam/functionaltest/policy/TestTransactionAuthentication.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -71,7 +94,7 @@
         <text>Response response =</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxGYWlsdXJlUHJvY2Vzc1RyZWVSZXN1bHRcPg==</text>
+        <text encoding="base64">XDxjcmVhdGVUcmVlRm9yVHJhbnNhY3Rpb25Db25kaXRpb25Ub1VzZVRvQXV0aGVudGljYXRlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXVkaXRMb2dpbkZhaWx1cmUocmVzdWx0LCB0cmVlUmVzdWx0Q29udGV4dCk7CiAgICAgICAgICAgIHVwZGF0ZU1ldHJpY3MoKTsK</text>
@@ -108,9 +131,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxGYWlsdXJlUHJvY2Vzc1RyZWVSZXN1bHRcPg==</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVUcmVlRm9yVHJhbnNhY3Rpb25Db25kaXRpb25Ub1VzZVRvQXV0aGVudGljYXRlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxGYWlsdXJlUHJvY2Vzc1RyZWVSZXN1bHRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVUcmVlRm9yVHJhbnNhY3Rpb25Db25kaXRpb25Ub1VzZVRvQXV0aGVudGljYXRlXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -126,6 +149,11 @@
         <entry encoding="base64">XDxhdWRpdExvZ2luU3VjY2Vzc1w+</entry>
         <entry encoding="base64">XDx1cGRhdGVNZXRyaWNzXD4=</entry>
         <entry encoding="base64">XDxGYWlsdXJlUHJvY2Vzc1RyZWVSZXN1bHRcPg==</entry>
+        <entry encoding="base64">XDwvXD4=</entry>
+        <entry encoding="base64">XDxwb2xpY2llc1dpdGhUcmFuc2FjdGlvbkNvbmRpdGlvblJlcXVpcmVUcmFuc2FjdGlvbkF1dGhlbnRpY2F0aW9uVG9CZVBlcmZvcm1lZEZvck9uZVRpbWVBY2Nlc3NUb1Byb3RlY3RlZFJlc291cmNlXD4=</entry>
+        <entry encoding="base64">XDxjcmVhdGVQb2xpY3lXaXRoVHJhbnNhY3Rpb25Db25kaXRpb25SZXF1aXJpbmdBdXRoZW50aWNhdGlvblRvRGF0YVN0b3JlTW9kdWxlXD4=</entry>
+        <entry encoding="base64">XDxBVVRIRU5USUNBVEVfVE9fTU9EVUxFXD4=</entry>
+        <entry encoding="base64">XDxjcmVhdGVUcmVlRm9yVHJhbnNhY3Rpb25Db25kaXRpb25Ub1VzZVRvQXV0aGVudGljYXRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
