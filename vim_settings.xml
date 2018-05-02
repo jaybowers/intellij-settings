@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/TreeResultContext.java" timestamp="1525169448473" />
-      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/FailureProcessTreeResult.java" timestamp="1525253438810">
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/FailureProcessTreeResult.java" timestamp="1525266408415">
         <mark key="'" line="65" column="12" />
         <mark key="[" line="56" column="0" />
         <mark key="]" line="57" column="28" />
@@ -25,8 +25,11 @@
         <mark key="]" line="1822" column="111" />
         <mark key="." line="1822" column="111" />
       </file>
-      <file name="/fragment.java" timestamp="1525180202287">
+      <file name="/fragment.java" timestamp="1525266201985">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/CoreRestAuthenticationGuiceModule.java" timestamp="1525266599492">
+        <mark key="'" line="31" column="50" />
       </file>
     </filemarks>
     <jumps>
@@ -58,6 +61,7 @@
       <jump line="63" column="12" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/FailureProcessTreeResult.java" />
       <jump line="164" column="8" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/SuccessProcessTreeResult.java" />
       <jump line="111" column="12" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/SuccessProcessTreeResult.java" />
+      <jump line="31" column="50" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/CoreRestAuthenticationGuiceModule.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -67,7 +71,7 @@
         <text>Response response =</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVNZXRyaWNzXD4=</text>
+        <text encoding="base64">XDxGYWlsdXJlUHJvY2Vzc1RyZWVSZXN1bHRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXVkaXRMb2dpbkZhaWx1cmUocmVzdWx0LCB0cmVlUmVzdWx0Q29udGV4dCk7CiAgICAgICAgICAgIHVwZGF0ZU1ldHJpY3MoKTsK</text>
@@ -104,9 +108,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVNZXRyaWNzXD4=</last-search>
+      <last-search encoding="base64">XDxGYWlsdXJlUHJvY2Vzc1RyZWVSZXN1bHRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVNZXRyaWNzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxGYWlsdXJlUHJvY2Vzc1RyZWVSZXN1bHRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -121,6 +125,7 @@
         <entry encoding="base64">XDxhdXRoZW50aWNhdGlvblRyZWVFdmVudEF1ZGl0b3JcPg==</entry>
         <entry encoding="base64">XDxhdWRpdExvZ2luU3VjY2Vzc1w+</entry>
         <entry encoding="base64">XDx1cGRhdGVNZXRyaWNzXD4=</entry>
+        <entry encoding="base64">XDxGYWlsdXJlUHJvY2Vzc1RyZWVSZXN1bHRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
