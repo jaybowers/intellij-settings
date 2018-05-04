@@ -39,8 +39,9 @@
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/RestAuthenticationHandler.java" timestamp="1525431100446" />
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/authentication/service/CompositeAdvices.java" timestamp="1525430996038" />
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/http/AuthenticationServiceV1.java" timestamp="1525432529522" />
       <file name="$MAVEN_REPOSITORY$/org/forgerock/http/chf-http-servlet/23.0.0/chf-http-servlet-23.0.0.jar!/org/forgerock/http/servlet/HttpFrameworkServlet.class" timestamp="1525428407492" />
-      <file name="/fragment.java" timestamp="1525431453370">
+      <file name="/fragment.java" timestamp="1525432523821">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/CoreRestAuthenticationGuiceModule.java" timestamp="1525266599492">
