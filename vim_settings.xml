@@ -4,10 +4,10 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/iplanet/sso/providers/dpro/SSOProviderBundle.java" timestamp="1525431000212" />
-      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/SuccessProcessTreeResult.java" timestamp="1525441281198">
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/SuccessProcessTreeResult.java" timestamp="1525443628279">
         <mark key="[" line="123" column="12" />
         <mark key="]" line="123" column="12" />
-        <mark key="^" line="122" column="14" />
+        <mark key="^" line="123" column="14" />
         <mark key="." line="123" column="12" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-rest/src/main/java/org/forgerock/openam/rest/RestEndpointServlet.java" timestamp="1525427367251" />
@@ -87,10 +87,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>u</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb25kaXRpb25cPg==</text>
