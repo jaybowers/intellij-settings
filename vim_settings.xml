@@ -6,10 +6,6 @@
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/iplanet/sso/providers/dpro/SSOProviderBundle.java" timestamp="1525431000212" />
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/SuccessProcessTreeResult.java" timestamp="1525789803003">
         <mark key="'" line="93" column="23" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="0" />
-        <mark key="^" line="122" column="1" />
-        <mark key="." line="121" column="0" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-rest/src/main/java/org/forgerock/openam/rest/RestEndpointServlet.java" timestamp="1525427367251" />
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-rest/src/main/java/org/forgerock/openam/rest/ProtocolVersionFilter.java" timestamp="1525427651622" />
@@ -23,10 +19,7 @@
       <file name="$MAVEN_REPOSITORY$/org/forgerock/commons/forgerock-jaspi-runtime/23.0.0/forgerock-jaspi-runtime-23.0.0.jar!/org/forgerock/caf/authentication/framework/AuthenticationFramework.class" timestamp="1525428818482" />
       <file name="$MAVEN_REPOSITORY$/org/forgerock/commons/forgerock-audit-core/23.0.0/forgerock-audit-core-23.0.0.jar!/org/forgerock/audit/AuditServiceImpl.class" timestamp="1525439916724" />
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/FailureProcessTreeResult.java" timestamp="1525789785249">
-        <mark key="'" line="65" column="12" />
-        <mark key="[" line="57" column="12" />
-        <mark key="]" line="57" column="12" />
-        <mark key="." line="57" column="12" />
+        <mark key="'" line="63" column="12" />
         <mark key="^" line="56" column="13" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/forgerock/commons/forgerock-audit-handler-json/23.0.0/forgerock-audit-handler-json-23.0.0.jar!/org/forgerock/audit/handlers/json/JsonFileWriter.class" timestamp="1525440165386" />
@@ -37,6 +30,9 @@
       <file name="$MAVEN_REPOSITORY$/org/forgerock/http/chf-http-servlet/23.0.0/chf-http-servlet-23.0.0.jar!/org/forgerock/http/servlet/HttpFrameworkServlet.class" timestamp="1525428407492" />
       <file name="/fragment.java" timestamp="1525440877908">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/CoreRestAuthenticationGuiceModule.java" timestamp="1525266599492">
+        <mark key="'" line="31" column="50" />
       </file>
     </filemarks>
     <jumps>
