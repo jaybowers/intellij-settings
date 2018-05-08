@@ -4,11 +4,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/iplanet/sso/providers/dpro/SSOProviderBundle.java" timestamp="1525431000212" />
-      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/SuccessProcessTreeResult.java" timestamp="1525443628279">
-        <mark key="[" line="123" column="12" />
-        <mark key="]" line="123" column="12" />
-        <mark key="^" line="123" column="14" />
-        <mark key="." line="123" column="12" />
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/SuccessProcessTreeResult.java" timestamp="1525789803003">
+        <mark key="'" line="93" column="23" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="^" line="122" column="1" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-rest/src/main/java/org/forgerock/openam/rest/RestEndpointServlet.java" timestamp="1525427367251" />
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-rest/src/main/java/org/forgerock/openam/rest/ProtocolVersionFilter.java" timestamp="1525427651622" />
@@ -21,11 +22,12 @@
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/AuthTrees.java" timestamp="1525347647360" />
       <file name="$MAVEN_REPOSITORY$/org/forgerock/commons/forgerock-jaspi-runtime/23.0.0/forgerock-jaspi-runtime-23.0.0.jar!/org/forgerock/caf/authentication/framework/AuthenticationFramework.class" timestamp="1525428818482" />
       <file name="$MAVEN_REPOSITORY$/org/forgerock/commons/forgerock-audit-core/23.0.0/forgerock-audit-core-23.0.0.jar!/org/forgerock/audit/AuditServiceImpl.class" timestamp="1525439916724" />
-      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/FailureProcessTreeResult.java" timestamp="1525436209282">
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/FailureProcessTreeResult.java" timestamp="1525789785249">
         <mark key="'" line="65" column="12" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="57" column="28" />
-        <mark key="." line="56" column="0" />
+        <mark key="[" line="57" column="12" />
+        <mark key="]" line="57" column="12" />
+        <mark key="." line="57" column="12" />
+        <mark key="^" line="56" column="13" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/forgerock/commons/forgerock-audit-handler-json/23.0.0/forgerock-audit-handler-json-23.0.0.jar!/org/forgerock/audit/handlers/json/JsonFileWriter.class" timestamp="1525440165386" />
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/RestAuthenticationHandler.java" timestamp="1525431100446" />
@@ -84,56 +86,60 @@
       <jump line="26" column="22" filename="$USER_HOME$/checkouts/forgerock/forks/openam/tests/openam-functional-test-apis/src/main/java/com/forgerock/openam/functionaltest/Conditions.java" />
       <jump line="27" column="19" filename="$USER_HOME$/checkouts/forgerock/forks/openam/tests/openam-functional-test-apis/src/main/java/com/forgerock/openam/functionaltest/Conditions.java" />
       <jump line="12" column="28" filename="$USER_HOME$/checkouts/forgerock/forks/openam/tests/openam-functional-test-apis/src/main/java/com/forgerock/openam/functionaltest/Conditions.java" />
+      <jump line="122" column="12" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/SuccessProcessTreeResult.java" />
+      <jump line="93" column="23" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/SuccessProcessTreeResult.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>u</text>
+      <register name="&quot;" type="8">
+        <text>//
+//</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDb25kaXRpb25cPg==</text>
+        <text encoding="base64">XDx1cGRhdGVNZXRyaWNzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXVkaXRMb2dpbkZhaWx1cmUocmVzdWx0LCB0cmVlUmVzdWx0Q29udGV4dCk7CiAgICAgICAgICAgIHVwZGF0ZU1ldHJpY3MoKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICBpZiAodHJlZVJlc3VsdENvbnRleHQudHJhbnNhY3Rpb24gIT0gbnVsbCkgewovLyAgICAgICAgICAgIGF1ZGl0TG9naW5TdWNjZXNzKHJlc3VsdCwgdHJlZVJlc3VsdENvbnRleHQsIHVuaXZlcnNhbElkZW50aWZpZXIpOw==</text>
+      <register name="1" type="8">
+        <text>//
+//</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">Ly8g</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiB3aWJibGUgPSB0cnVlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiB3aWJibGUgPSB0cnVlOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hc3NlcnRqLmNvcmUuYXBpLkNvbmRpdGlvbjsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICBpZiAodHJlZVJlc3VsdENvbnRleHQudHJhbnNhY3Rpb24gIT0gbnVsbCkgewovLyAgICAgICAgICAgIGF1ZGl0TG9naW5TdWNjZXNzKHJlc3VsdCwgdHJlZVJlc3VsdENvbnRleHQsIHVuaXZlcnNhbElkZW50aWZpZXIpOw==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdG9kbyBPUEVOQU0tMTMwMDQgLSBBdWRpdCBhbmQgbW9uaXRvciBoZXJlCg==</text>
+      <register name="5" type="8">
+        <text encoding="base64">Ly8g</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdW5pdmVyc2FsSWRlbnRpZmllciA9IGdldFVuaXZlcnNhbElkZW50aWZpZXIocmVzdWx0LCB0cmVlUmVzdWx0Q29udGV4dCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0aGVudGljYXRpb25Nb25pdG9yLmF1dGhlbnRpY2F0aW9uU3VjY2VzcygpOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hc3NlcnRqLmNvcmUuYXBpLkNvbmRpdGlvbjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXVkaXRvci5nZXQoKS5hdWRpdExvZ2luU3VjY2VzcyhyZXN1bHQsIHRyZWVSZXN1bHRDb250ZXh0LmF1dGhUcmVlLCBDbGllbnRVdGlscy5nZXRDbGllbnRJUEFkZHJlc3ModHJlZVJlc3VsdENvbnRleHQubG9naW5Db25maWd1cmF0aW9uLmdldEh0dHBSZXF1ZXN0KCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdG9kbyBPUEVOQU0tMTMwMDQgLSBBdWRpdCBhbmQgbW9uaXRvciBoZXJlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdW5pdmVyc2FsSWRlbnRpZmllciA9IGdldFVuaXZlcnNhbElkZW50aWZpZXIocmVzdWx0LCB0cmVlUmVzdWx0Q29udGV4dCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDb25kaXRpb25cPg==</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVNZXRyaWNzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDb25kaXRpb25cPg==</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDx1cGRhdGVNZXRyaWNzXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -146,7 +152,6 @@
         <entry encoding="base64">XDxhdXRoZW50aWNhdGlvbk1vbml0b3JcPg==</entry>
         <entry encoding="base64">XDxhdXRoZW50aWNhdGlvblRyZWVFdmVudEF1ZGl0b3JcPg==</entry>
         <entry encoding="base64">XDxhdWRpdExvZ2luU3VjY2Vzc1w+</entry>
-        <entry encoding="base64">XDx1cGRhdGVNZXRyaWNzXD4=</entry>
         <entry encoding="base64">XDxGYWlsdXJlUHJvY2Vzc1RyZWVSZXN1bHRcPg==</entry>
         <entry encoding="base64">XDwvXD4=</entry>
         <entry encoding="base64">XDxwb2xpY2llc1dpdGhUcmFuc2FjdGlvbkNvbmRpdGlvblJlcXVpcmVUcmFuc2FjdGlvbkF1dGhlbnRpY2F0aW9uVG9CZVBlcmZvcm1lZEZvck9uZVRpbWVBY2Nlc3NUb1Byb3RlY3RlZFJlc291cmNlXD4=</entry>
@@ -154,6 +159,7 @@
         <entry encoding="base64">XDxBVVRIRU5USUNBVEVfVE9fTU9EVUxFXD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVUcmVlRm9yVHJhbnNhY3Rpb25Db25kaXRpb25Ub1VzZVRvQXV0aGVudGljYXRlXD4=</entry>
         <entry encoding="base64">XDxDb25kaXRpb25cPg==</entry>
+        <entry encoding="base64">XDx1cGRhdGVNZXRyaWNzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -179,6 +185,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
