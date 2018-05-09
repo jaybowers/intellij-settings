@@ -8,12 +8,7 @@
         <mark key="'" line="93" column="23" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-rest/src/main/java/org/forgerock/openam/rest/RestEndpointServlet.java" timestamp="1525427367251" />
-      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-rest/src/main/java/org/forgerock/openam/rest/ProtocolVersionFilter.java" timestamp="1525427651622" />
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-http/src/main/java/org/forgerock/openam/http/GuiceHandler.java" timestamp="1525428431625" />
-      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-auth-trees/auth-trees-engine/src/main/java/org/forgerock/openam/auth/audit/AuthenticationTreeEventAuditor.java" timestamp="1525440892741" />
-      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/tests/temper-functional-tests/openam-ui-tests/src/test/java/com/forgerock/openam/functionaltest/policy/TestTransactionAuthentication.java" timestamp="1525345836709">
-        <mark key="'" line="1094" column="17" />
-      </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/iplanet/dpro/session/SessionIDEncoder.java" timestamp="1525431411282" />
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/AuthTrees.java" timestamp="1525347647360" />
       <file name="$MAVEN_REPOSITORY$/org/forgerock/commons/forgerock-jaspi-runtime/23.0.0/forgerock-jaspi-runtime-23.0.0.jar!/org/forgerock/caf/authentication/framework/AuthenticationFramework.class" timestamp="1525428818482" />
@@ -24,8 +19,16 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/forgerock/commons/forgerock-audit-handler-json/23.0.0/forgerock-audit-handler-json-23.0.0.jar!/org/forgerock/audit/handlers/json/JsonFileWriter.class" timestamp="1525440165386" />
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/RestAuthenticationHandler.java" timestamp="1525431100446" />
-      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/authentication/service/CompositeAdvices.java" timestamp="1525430996038" />
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/sm/ChoiceValues.java" timestamp="1525853680192">
+        <mark key="'" line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-audit/openam-audit-core/src/main/java/org/forgerock/openam/audit/AuditConstants.java" timestamp="1525438628772" />
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-rest/src/main/java/org/forgerock/openam/rest/ProtocolVersionFilter.java" timestamp="1525427651622" />
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-auth-trees/auth-trees-engine/src/main/java/org/forgerock/openam/auth/audit/AuthenticationTreeEventAuditor.java" timestamp="1525440892741" />
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/tests/temper-functional-tests/openam-ui-tests/src/test/java/com/forgerock/openam/functionaltest/policy/TestTransactionAuthentication.java" timestamp="1525345836709">
+        <mark key="'" line="1094" column="17" />
+      </file>
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/authentication/service/CompositeAdvices.java" timestamp="1525430996038" />
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/http/AuthenticationServiceV1.java" timestamp="1525436158453" />
       <file name="$MAVEN_REPOSITORY$/org/forgerock/http/chf-http-servlet/23.0.0/chf-http-servlet-23.0.0.jar!/org/forgerock/http/servlet/HttpFrameworkServlet.class" timestamp="1525428407492" />
       <file name="/fragment.java" timestamp="1525440877908">
@@ -84,6 +87,8 @@
       <jump line="12" column="28" filename="$USER_HOME$/checkouts/forgerock/forks/openam/tests/openam-functional-test-apis/src/main/java/com/forgerock/openam/functionaltest/Conditions.java" />
       <jump line="122" column="12" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/SuccessProcessTreeResult.java" />
       <jump line="93" column="23" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/SuccessProcessTreeResult.java" />
+      <jump line="46" column="27" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/sm/ChoiceValues.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/sm/ChoiceValues.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="8">
