@@ -26,6 +26,11 @@
         <mark key="^" line="57" column="31" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/iplanet/dpro/session/SessionIDEncoder.java" timestamp="1525431411282" />
+      <file name="$USER_HOME$/checkouts/mine/AudioAuth/example.json" timestamp="1526048492720">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="16" column="27" />
+      </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/AuthTrees.java" timestamp="1525347647360" />
       <file name="$MAVEN_REPOSITORY$/org/forgerock/commons/forgerock-jaspi-runtime/23.0.0/forgerock-jaspi-runtime-23.0.0.jar!/org/forgerock/caf/authentication/framework/AuthenticationFramework.class" timestamp="1525428818482" />
       <file name="$MAVEN_REPOSITORY$/org/forgerock/commons/forgerock-audit-core/23.0.0/forgerock-audit-core-23.0.0.jar!/org/forgerock/audit/AuditServiceImpl.class" timestamp="1525439916724" />
@@ -72,12 +77,12 @@
         <mark key="]" line="42" column="57" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-auth-trees/auth-trees-engine/src/main/java/org/forgerock/openam/auth/audit/AuthenticationTreeEventAuditor.java" timestamp="1525440892741" />
-      <file name="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/openam-auth-trees/auth-nodes/src/main/java/org/forgerock/openam/auth/nodes/MidiDecisionNode.java" timestamp="1526047074214">
+      <file name="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/openam-auth-trees/auth-nodes/src/main/java/org/forgerock/openam/auth/nodes/MidiDecisionNode.java" timestamp="1526047924852">
         <mark key="'" line="24" column="17" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="43" column="64" />
-        <mark key="." line="53" column="0" />
+        <mark key="[" line="26" column="77" />
+        <mark key="]" line="26" column="79" />
+        <mark key="^" line="26" column="79" />
+        <mark key="." line="26" column="79" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/tests/temper-functional-tests/openam-ui-tests/src/test/java/com/forgerock/openam/functionaltest/policy/TestTransactionAuthentication.java" timestamp="1525345836709">
         <mark key="'" line="1094" column="17" />
@@ -101,17 +106,17 @@
         <mark key="." line="8" column="28" />
         <mark key="^" line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/checkouts/mine/AudioAuth/src/main/java/org/forgerock/auth/audio/midi/MidiHandler.java" timestamp="1526034039355">
+      <file name="$USER_HOME$/checkouts/mine/AudioAuth/src/main/java/org/forgerock/auth/audio/midi/MidiHandler.java" timestamp="1526048403566">
         <mark key="'" line="30" column="24" />
-        <mark key="[" line="48" column="45" />
-        <mark key="]" line="49" column="42" />
-        <mark key="^" line="49" column="42" />
-        <mark key="." line="49" column="42" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="102" column="26" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/authentication/service/CompositeAdvices.java" timestamp="1525430996038" />
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/http/AuthenticationServiceV1.java" timestamp="1525436158453" />
       <file name="$MAVEN_REPOSITORY$/org/forgerock/http/chf-http-servlet/23.0.0/chf-http-servlet-23.0.0.jar!/org/forgerock/http/servlet/HttpFrameworkServlet.class" timestamp="1525428407492" />
-      <file name="/fragment.java" timestamp="1526045758980">
+      <file name="/fragment.java" timestamp="1526047619143">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -213,13 +218,30 @@
       <jump line="111" column="37" filename="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/openam-auth-trees/auth-nodes/src/test/java/org/forgerock/openam/auth/nodes/DataStoreDecisionNodeTest.java" />
       <jump line="17" column="41" filename="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/openam-auth-trees/auth-nodes/src/test/java/org/forgerock/openam/auth/nodes/MidiDecisionNodeTest.java" />
       <jump line="23" column="17" filename="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/openam-auth-trees/auth-nodes/src/main/java/org/forgerock/openam/auth/nodes/MidiDecisionNode.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/checkouts/mine/AudioAuth/example.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">Q29sbGVjdGlvbjxNaWRpSGFuZGxlci5NaWRpRGF0YT4gc2VjcmV0RXZlbnRzID0g</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>[{&quot;status&quot;:&quot;144&quot;,&quot;note&quot;:&quot;60&quot;},
+&quot;status&quot;:&quot;128&quot;,&quot;note&quot;:&quot;60&quot;},
+&quot;status&quot;:&quot;144&quot;,&quot;note&quot;:&quot;62&quot;},
+&quot;status&quot;:&quot;128&quot;,&quot;note&quot;:&quot;62&quot;},
+&quot;status&quot;:&quot;144&quot;,&quot;note&quot;:&quot;64&quot;},
+&quot;status&quot;:&quot;128&quot;,&quot;note&quot;:&quot;64&quot;},
+&quot;status&quot;:&quot;144&quot;,&quot;note&quot;:&quot;65&quot;},
+&quot;status&quot;:&quot;128&quot;,&quot;note&quot;:&quot;65&quot;},
+&quot;status&quot;:&quot;144&quot;,&quot;note&quot;:&quot;67&quot;},
+&quot;status&quot;:&quot;128&quot;,&quot;note&quot;:&quot;67&quot;},
+&quot;status&quot;:&quot;144&quot;,&quot;note&quot;:&quot;65&quot;},
+&quot;status&quot;:&quot;128&quot;,&quot;note&quot;:&quot;65&quot;},
+&quot;status&quot;:&quot;144&quot;,&quot;note&quot;:&quot;64&quot;},
+&quot;status&quot;:&quot;128&quot;,&quot;note&quot;:&quot;64&quot;},
+&quot;status&quot;:&quot;144&quot;,&quot;note&quot;:&quot;62&quot;},
+&quot;status&quot;:&quot;128&quot;,&quot;note&quot;:&quot;62&quot;},
+&quot;status&quot;:&quot;144&quot;,&quot;note&quot;:&quot;60&quot;}]</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -1253,22 +1275,38 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRDb250ZXh0XD4=</text>
+        <text>},{</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFycmF5KG9iamVjdCgKICAgICAgICAgICAgICAgICAgICAgICAgZmllbGQoInRpbWVzdGFtcCIsIDEyMzQ1Njc4OTApLAogICAgICAgICAgICAgICAgICAgICAgICBmaWVsZCgic3RhdHVzIiwgMTI4KSwKICAgICAgICAgICAgICAgICAgICAgICAgZmllbGQoIm5vdGUiLCA2MCksIAogICAgICAgICAgICAgICAgICAgICAgICBmaWVsZCgidmVsb2NpdHkiLCA0NCkpCiAgICAgICAgICAgICAgICAp</text>
+        <text>[{&quot;status&quot;:&quot;144&quot;,&quot;note&quot;:&quot;60&quot;},
+&quot;status&quot;:&quot;128&quot;,&quot;note&quot;:&quot;60&quot;},
+&quot;status&quot;:&quot;144&quot;,&quot;note&quot;:&quot;62&quot;},
+&quot;status&quot;:&quot;128&quot;,&quot;note&quot;:&quot;62&quot;},
+&quot;status&quot;:&quot;144&quot;,&quot;note&quot;:&quot;64&quot;},
+&quot;status&quot;:&quot;128&quot;,&quot;note&quot;:&quot;64&quot;},
+&quot;status&quot;:&quot;144&quot;,&quot;note&quot;:&quot;65&quot;},
+&quot;status&quot;:&quot;128&quot;,&quot;note&quot;:&quot;65&quot;},
+&quot;status&quot;:&quot;144&quot;,&quot;note&quot;:&quot;67&quot;},
+&quot;status&quot;:&quot;128&quot;,&quot;note&quot;:&quot;67&quot;},
+&quot;status&quot;:&quot;144&quot;,&quot;note&quot;:&quot;65&quot;},
+&quot;status&quot;:&quot;128&quot;,&quot;note&quot;:&quot;65&quot;},
+&quot;status&quot;:&quot;144&quot;,&quot;note&quot;:&quot;64&quot;},
+&quot;status&quot;:&quot;128&quot;,&quot;note&quot;:&quot;64&quot;},
+&quot;status&quot;:&quot;144&quot;,&quot;note&quot;:&quot;62&quot;},
+&quot;status&quot;:&quot;128&quot;,&quot;note&quot;:&quot;62&quot;},
+&quot;status&quot;:&quot;144&quot;,&quot;note&quot;:&quot;60&quot;}]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENvbGxlY3Rpb25zLmVtcHR5TGlzdCgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -1277,31 +1315,32 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGludCBub3RlOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGludCBzdGF0dXM7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGNsYXNzIE1pZGlFdmVudCB7Cg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGludCBub3RlOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGludCBzdGF0dXM7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGNsYXNzIE1pZGlFdmVudCB7Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL30sey99LFxyL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRDb250ZXh0XD4=</last-search>
+      <last-search>},{</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRDb250ZXh0XD4=</last-pattern>
+      <last-pattern>},{</last-pattern>
+      <last-replace>},\r</last-replace>
+      <last-substitute>},{</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBVVRIRU5USUNBVEVfVE9fTU9EVUxFXD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVUcmVlRm9yVHJhbnNhY3Rpb25Db25kaXRpb25Ub1VzZVRvQXV0aGVudGljYXRlXD4=</entry>
         <entry encoding="base64">XDxDb25kaXRpb25cPg==</entry>
         <entry encoding="base64">XDx1cGRhdGVNZXRyaWNzXD4=</entry>
@@ -1321,6 +1360,7 @@
         <entry>private</entry>
         <entry encoding="base64">XDxpbml0TW9ja3NcPg==</entry>
         <entry encoding="base64">XDxnZXRDb250ZXh0XD4=</entry>
+        <entry>},{</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -1328,6 +1368,7 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL30sey99LFxyL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
