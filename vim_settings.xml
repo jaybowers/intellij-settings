@@ -49,7 +49,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-rest/src/main/java/org/forgerock/openam/rest/ProtocolVersionFilter.java" timestamp="1525427651622" />
-      <file name="$USER_HOME$/checkouts/mine/AudioAuth/src/main/java/org/forgerock/auth/audio/midi/Main.java" timestamp="1526029959589">
+      <file name="$USER_HOME$/checkouts/mine/AudioAuth/src/main/java/org/forgerock/auth/audio/midi/Main.java" timestamp="1526031815829">
         <mark key="'" line="68" column="52" />
         <mark key="[" line="52" column="45" />
         <mark key="]" line="52" column="49" />
@@ -64,6 +64,7 @@
         <mark key="." line="70" column="22" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/javax/sound/midi/MidiMessage.java" timestamp="1525963318686" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/rt.jar!/com/sun/media/sound/MidiInDevice.class" timestamp="1526032525171" />
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-auth-trees/auth-trees-engine/src/main/java/org/forgerock/openam/auth/audit/AuthenticationTreeEventAuditor.java" timestamp="1525440892741" />
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/tests/temper-functional-tests/openam-ui-tests/src/test/java/com/forgerock/openam/functionaltest/policy/TestTransactionAuthentication.java" timestamp="1525345836709">
         <mark key="'" line="1094" column="17" />
@@ -80,12 +81,12 @@
         <mark key="." line="5" column="25" />
         <mark key="^" line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/checkouts/mine/AudioAuth/src/main/java/org/forgerock/auth/audio/midi/MidiHandler.java" timestamp="1526030790140">
-        <mark key="'" line="29" column="24" />
-        <mark key="[" line="62" column="52" />
-        <mark key="]" line="62" column="52" />
-        <mark key="." line="62" column="52" />
-        <mark key="^" line="51" column="23" />
+      <file name="$USER_HOME$/checkouts/mine/AudioAuth/src/main/java/org/forgerock/auth/audio/midi/MidiHandler.java" timestamp="1526032208360">
+        <mark key="'" line="30" column="24" />
+        <mark key="[" line="48" column="45" />
+        <mark key="]" line="49" column="42" />
+        <mark key="^" line="49" column="42" />
+        <mark key="." line="49" column="42" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/authentication/service/CompositeAdvices.java" timestamp="1525430996038" />
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/http/AuthenticationServiceV1.java" timestamp="1525436158453" />
@@ -191,8 +192,8 @@
       <register name="a" type="4">
         <text encoding="base64">Q29sbGVjdGlvbjxNaWRpSGFuZGxlci5NaWRpRGF0YT4gc2VjcmV0RXZlbnRzID0g</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>MidiData</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBMaXN0PFRyYW5zbWl0dGVyPiB0cmFuc21pdHRlcnMgPSBkZXZpY2UuZ2V0VHJhbnNtaXR0ZXJzKCk7Ci8vICAgICAgICAgICAgZm9yKGludCBqID0gMDsgajx0cmFuc21pdHRlcnMuc2l6ZSgpO2orKykgewovLyAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIiB0cmFuc21pdHRlciAiICsgdHJhbnNtaXR0ZXJzLmdldChqKSk7Ci8vICAgICAgICAgICAgICAgIHRyYW5zbWl0dGVycy5nZXQoaikuc2V0UmVjZWl2ZXIoCi8vICAgICAgICAgICAgICAgICAgICAgICAgbmV3IE1pZGlJbnB1dENvbGxlY3RvcihkZXZpY2UuZ2V0RGV2aWNlSW5mbygpLnRvU3RyaW5nKCkpCi8vICAgICAgICAgICAgICAgICk7Ci8vICAgICAgICAgICAgfQoK</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -1235,31 +1236,31 @@
         <text encoding="base64">ICAgICAgICBAUGFyYW1ldGVyKG5hbWVzID0gIi0tc2VjcmV0RXZlbnRzRmlsZSIsIGNvbnZlcnRlciA9IEZpbGVDb252ZXJ0ZXIuY2xhc3MpCiAgICAgICAgRmlsZSBzZWNyZXRFdmVudHNGaWxlOwoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGV2aWNlLmlzT3BlbigpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBMaXN0PFRyYW5zbWl0dGVyPiB0cmFuc21pdHRlcnMgPSBkZXZpY2UuZ2V0VHJhbnNtaXR0ZXJzKCk7Ci8vICAgICAgICAgICAgZm9yKGludCBqID0gMDsgajx0cmFuc21pdHRlcnMuc2l6ZSgpO2orKykgewovLyAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIiB0cmFuc21pdHRlciAiICsgdHJhbnNtaXR0ZXJzLmdldChqKSk7Ci8vICAgICAgICAgICAgICAgIHRyYW5zbWl0dGVycy5nZXQoaikuc2V0UmVjZWl2ZXIoCi8vICAgICAgICAgICAgICAgICAgICAgICAgbmV3IE1pZGlJbnB1dENvbGxlY3RvcihkZXZpY2UuZ2V0RGV2aWNlSW5mbygpLnRvU3RyaW5nKCkpCi8vICAgICAgICAgICAgICAgICk7Ci8vICAgICAgICAgICAgfQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1pZGlJbnB1dENvbGxlY3RvciBjb2xsZWN0b3IgPSBuZXcgTWlkaUlucHV0Q29sbGVjdG9yKGRldmljZS5nZXREZXZpY2VJbmZvKCkudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGV2aWNlLmNsb3NlKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJhbnMuY2xvc2UoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZAo=</text>
-      </register>
-      <register name="6" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAg</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Q29sbGVjdGlvbjxNaWRpSGFuZGxlci5NaWRpRGF0YT4gc2VjcmV0RXZlbnRzID0g</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGV2aWNlLm9wZW4oKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGV2aWNlLmlzT3BlbigpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29sbGVjdGlvbjxNaWRpSGFuZGxlci5NaWRpRGF0YT4gc2VjcmV0RXZlbnRzID0gZ3Nvbi5mcm9tSnNvbihyZWFkZXIsIHR5cGUpOwo=</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
