@@ -15,14 +15,16 @@
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-rest/src/main/java/org/forgerock/openam/rest/RestEndpointServlet.java" timestamp="1525427367251" />
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-http/src/main/java/org/forgerock/openam/http/GuiceHandler.java" timestamp="1525428431625" />
+      <file name="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/openam-auth-trees/auth-nodes/src/main/java/org/forgerock/openam/auth/nodes/NodesPlugin.java" timestamp="1526034442682">
+        <mark key="[" line="57" column="20" />
+        <mark key="]" line="57" column="31" />
+        <mark key="." line="57" column="31" />
+        <mark key="^" line="57" column="31" />
+      </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/iplanet/dpro/session/SessionIDEncoder.java" timestamp="1525431411282" />
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/AuthTrees.java" timestamp="1525347647360" />
       <file name="$MAVEN_REPOSITORY$/org/forgerock/commons/forgerock-jaspi-runtime/23.0.0/forgerock-jaspi-runtime-23.0.0.jar!/org/forgerock/caf/authentication/framework/AuthenticationFramework.class" timestamp="1525428818482" />
       <file name="$MAVEN_REPOSITORY$/org/forgerock/commons/forgerock-audit-core/23.0.0/forgerock-audit-core-23.0.0.jar!/org/forgerock/audit/AuditServiceImpl.class" timestamp="1525439916724" />
-      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/FailureProcessTreeResult.java" timestamp="1525789785249">
-        <mark key="'" line="63" column="12" />
-        <mark key="^" line="56" column="13" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/forgerock/commons/forgerock-audit-handler-json/23.0.0/forgerock-audit-handler-json-23.0.0.jar!/org/forgerock/audit/handlers/json/JsonFileWriter.class" timestamp="1525440165386" />
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/RestAuthenticationHandler.java" timestamp="1525431100446" />
       <file name="$USER_HOME$/checkouts/mine/AudioAuth/pom.xml" timestamp="1525964551185">
@@ -65,7 +67,17 @@
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/javax/sound/midi/MidiMessage.java" timestamp="1525963318686" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/rt.jar!/com/sun/media/sound/MidiInDevice.class" timestamp="1526032525171" />
+      <file name="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/openam-auth-trees/auth-nodes/src/main/java/org/forgerock/openam/auth/nodes/DataStoreDecisionNode.java" timestamp="1526034457404">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="75" />
+      </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-auth-trees/auth-trees-engine/src/main/java/org/forgerock/openam/auth/audit/AuthenticationTreeEventAuditor.java" timestamp="1525440892741" />
+      <file name="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/openam-auth-trees/auth-nodes/src/main/java/org/forgerock/openam/auth/nodes/MidiDecisionNode.java" timestamp="1526035356487">
+        <mark key="[" line="22" column="16" />
+        <mark key="]" line="22" column="15" />
+        <mark key="^" line="22" column="15" />
+        <mark key="." line="22" column="15" />
+      </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/tests/temper-functional-tests/openam-ui-tests/src/test/java/com/forgerock/openam/functionaltest/policy/TestTransactionAuthentication.java" timestamp="1525345836709">
         <mark key="'" line="1094" column="17" />
       </file>
@@ -80,6 +92,12 @@
         <mark key="]" line="5" column="25" />
         <mark key="." line="5" column="25" />
         <mark key="^" line="5" column="25" />
+      </file>
+      <file name="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/openam-auth-trees/auth-nodes/src/main/resources/org/forgerock/openam/auth/nodes/MididecisionNode.properties" timestamp="1526034724126">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="8" column="28" />
+        <mark key="." line="8" column="28" />
+        <mark key="^" line="8" column="28" />
       </file>
       <file name="$USER_HOME$/checkouts/mine/AudioAuth/src/main/java/org/forgerock/auth/audio/midi/MidiHandler.java" timestamp="1526034039355">
         <mark key="'" line="30" column="24" />
@@ -192,8 +210,8 @@
       <register name="a" type="4">
         <text encoding="base64">Q29sbGVjdGlvbjxNaWRpSGFuZGxlci5NaWRpRGF0YT4gc2VjcmV0RXZlbnRzID0g</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBMaXN0PFRyYW5zbWl0dGVyPiB0cmFuc21pdHRlcnMgPSBkZXZpY2UuZ2V0VHJhbnNtaXR0ZXJzKCk7Ci8vICAgICAgICAgICAgZm9yKGludCBqID0gMDsgajx0cmFuc21pdHRlcnMuc2l6ZSgpO2orKykgewovLyAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIiB0cmFuc21pdHRlciAiICsgdHJhbnNtaXR0ZXJzLmdldChqKSk7Ci8vICAgICAgICAgICAgICAgIHRyYW5zbWl0dGVycy5nZXQoaikuc2V0UmVjZWl2ZXIoCi8vICAgICAgICAgICAgICAgICAgICAgICAgbmV3IE1pZGlJbnB1dENvbGxlY3RvcihkZXZpY2UuZ2V0RGV2aWNlSW5mbygpLnRvU3RyaW5nKCkpCi8vICAgICAgICAgICAgICAgICk7Ci8vICAgICAgICAgICAgfQoK</text>
+      <register name="&quot;" type="4">
+        <text>secretMidiData</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -1227,40 +1245,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>MidiData</text>
+        <text>secretMidiData</text>
       </register>
       <register name="/" type="4">
         <text>capture</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBAUGFyYW1ldGVyKG5hbWVzID0gIi0tc2VjcmV0RXZlbnRzRmlsZSIsIGNvbnZlcnRlciA9IEZpbGVDb252ZXJ0ZXIuY2xhc3MpCiAgICAgICAgRmlsZSBzZWNyZXRFdmVudHNGaWxlOwoK</text>
+        <text encoding="base64">ICAgICAgICBKc29uVmFsdWUgbWlkaURhdGEgPSBjb250ZXh0LnNoYXJlZFN0YXRlLmdldChTaGFyZWRTdGF0ZUNvbnN0YW50cy5NSURJX0RBVEEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBMaXN0PFRyYW5zbWl0dGVyPiB0cmFuc21pdHRlcnMgPSBkZXZpY2UuZ2V0VHJhbnNtaXR0ZXJzKCk7Ci8vICAgICAgICAgICAgZm9yKGludCBqID0gMDsgajx0cmFuc21pdHRlcnMuc2l6ZSgpO2orKykgewovLyAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIiB0cmFuc21pdHRlciAiICsgdHJhbnNtaXR0ZXJzLmdldChqKSk7Ci8vICAgICAgICAgICAgICAgIHRyYW5zbWl0dGVycy5nZXQoaikuc2V0UmVjZWl2ZXIoCi8vICAgICAgICAgICAgICAgICAgICAgICAgbmV3IE1pZGlJbnB1dENvbGxlY3RvcihkZXZpY2UuZ2V0RGV2aWNlSW5mbygpLnRvU3RyaW5nKCkpCi8vICAgICAgICAgICAgICAgICk7Ci8vICAgICAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1pZGlJbnB1dENvbGxlY3RvciBjb2xsZWN0b3IgPSBuZXcgTWlkaUlucHV0Q29sbGVjdG9yKGRldmljZS5nZXREZXZpY2VJbmZvKCkudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">bm9kZURlc2NyaXB0aW9uPU1pZGkgQ29sbGVjdG9yCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGV2aWNlLmNsb3NlKCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBMaXN0PFRyYW5zbWl0dGVyPiB0cmFuc21pdHRlcnMgPSBkZXZpY2UuZ2V0VHJhbnNtaXR0ZXJzKCk7Ci8vICAgICAgICAgICAgZm9yKGludCBqID0gMDsgajx0cmFuc21pdHRlcnMuc2l6ZSgpO2orKykgewovLyAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIiB0cmFuc21pdHRlciAiICsgdHJhbnNtaXR0ZXJzLmdldChqKSk7Ci8vICAgICAgICAgICAgICAgIHRyYW5zbWl0dGVycy5nZXQoaikuc2V0UmVjZWl2ZXIoCi8vICAgICAgICAgICAgICAgICAgICAgICAgbmV3IE1pZGlJbnB1dENvbGxlY3RvcihkZXZpY2UuZ2V0RGV2aWNlSW5mbygpLnRvU3RyaW5nKCkpCi8vICAgICAgICAgICAgICAgICk7Ci8vICAgICAgICAgICAgfQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJhbnMuY2xvc2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1pZGlJbnB1dENvbGxlY3RvciBjb2xsZWN0b3IgPSBuZXcgTWlkaUlucHV0Q29sbGVjdG9yKGRldmljZS5nZXREZXZpY2VJbmZvKCkudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGV2aWNlLmNsb3NlKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGV2aWNlLm9wZW4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJhbnMuY2xvc2UoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGV2aWNlLmlzT3BlbigpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGV2aWNlLm9wZW4oKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGV2aWNlLmlzT3BlbigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1333,6 +1351,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
