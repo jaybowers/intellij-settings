@@ -46,7 +46,7 @@
         <mark key="]" line="69" column="75" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-audit/openam-audit-core/src/main/java/org/forgerock/openam/audit/AuditConstants.java" timestamp="1525438628772" />
-      <file name="/Dummy.txt" timestamp="1526029905367">
+      <file name="/Dummy.txt" timestamp="1526043411646">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/openam-auth-trees/auth-node-api/src/main/java/org/forgerock/openam/auth/node/api/Node.java" timestamp="1526035858181" />
@@ -72,12 +72,12 @@
         <mark key="]" line="42" column="57" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-auth-trees/auth-trees-engine/src/main/java/org/forgerock/openam/auth/audit/AuthenticationTreeEventAuditor.java" timestamp="1525440892741" />
-      <file name="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/openam-auth-trees/auth-nodes/src/main/java/org/forgerock/openam/auth/nodes/MidiDecisionNode.java" timestamp="1526041577463">
-        <mark key="'" line="31" column="4" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="32" column="37" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/openam-auth-trees/auth-nodes/src/main/java/org/forgerock/openam/auth/nodes/MidiDecisionNode.java" timestamp="1526043382944">
+        <mark key="'" line="32" column="4" />
+        <mark key="[" line="36" column="8" />
+        <mark key="]" line="37" column="27" />
+        <mark key="^" line="37" column="27" />
+        <mark key="." line="37" column="27" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/tests/temper-functional-tests/openam-ui-tests/src/test/java/com/forgerock/openam/functionaltest/policy/TestTransactionAuthentication.java" timestamp="1525345836709">
         <mark key="'" line="1094" column="17" />
@@ -216,8 +216,8 @@
       <register name="a" type="4">
         <text encoding="base64">Q29sbGVjdGlvbjxNaWRpSGFuZGxlci5NaWRpRGF0YT4gc2VjcmV0RXZlbnRzID0g</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>objects</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -1251,7 +1251,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>uthServiceConfig.</text>
+        <text>objects</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRDb250ZXh0XD4=</text>
@@ -1260,32 +1260,31 @@
         <text encoding="base64">ICAgICAgICBKc29uVmFsdWUgc2hhcmVkU3RhdGUgPSBqc29uKG9iamVjdChmaWVsZChVU0VSTkFNRSwgImJvYiIpKSk7CiAgICAgICAgSnNvblZhbHVlIHRyYW5zaWVudFN0YXRlID0ganNvbihvYmplY3QoZmllbGQoUEFTU1dPUkQsICJzZWNyZXQiKSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9uPE9iamVjdD4gID0gbWlkaURhdGEuYXNDb2xsZWN0aW9uKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4uaWRlbnRpdHkuYXV0aGVudGljYXRpb24uY29uZmlnLkF1dGhTZXJ2aWNlQ29uZmlnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuZm9yZ2Vyb2NrLm9wZW5hbS5hdXRoLm5vZGUuYXBpLlNoYXJlZFN0YXRlQ29uc3RhbnRzLlVTRVJOQU1FOwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWNyZXRNaWRpRGF0YS5hc0NvbGxlY3Rpb24oKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4uaWRlbnRpdHkuYXV0aGVudGljYXRpb24uY29uZmlnLkF1dGhTZXJ2aWNlQ29uZmlnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuZm9yZ2Vyb2NrLm9wZW5hbS5hdXRoLm5vZGUuYXBpLlNoYXJlZFN0YXRlQ29uc3RhbnRzLlVTRVJOQU1FOwo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKCkK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>;
-    }</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
