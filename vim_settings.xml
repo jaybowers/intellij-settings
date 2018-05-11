@@ -26,7 +26,7 @@
         <mark key="^" line="57" column="31" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/iplanet/dpro/session/SessionIDEncoder.java" timestamp="1525431411282" />
-      <file name="$USER_HOME$/checkouts/mine/AudioAuth/example.json" timestamp="1526048492720">
+      <file name="$USER_HOME$/checkouts/mine/AudioAuth/example.json" timestamp="1526048622239">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="16" column="27" />
@@ -77,12 +77,12 @@
         <mark key="]" line="42" column="57" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-auth-trees/auth-trees-engine/src/main/java/org/forgerock/openam/auth/audit/AuthenticationTreeEventAuditor.java" timestamp="1525440892741" />
-      <file name="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/openam-auth-trees/auth-nodes/src/main/java/org/forgerock/openam/auth/nodes/MidiDecisionNode.java" timestamp="1526047924852">
-        <mark key="'" line="24" column="17" />
-        <mark key="[" line="26" column="77" />
-        <mark key="]" line="26" column="79" />
-        <mark key="^" line="26" column="79" />
-        <mark key="." line="26" column="79" />
+      <file name="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/openam-auth-trees/auth-nodes/src/main/java/org/forgerock/openam/auth/nodes/MidiDecisionNode.java" timestamp="1526049083727">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="45" column="58" />
+        <mark key="]" line="45" column="75" />
+        <mark key="^" line="45" column="75" />
+        <mark key="." line="45" column="75" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/tests/temper-functional-tests/openam-ui-tests/src/test/java/com/forgerock/openam/functionaltest/policy/TestTransactionAuthentication.java" timestamp="1525345836709">
         <mark key="'" line="1094" column="17" />
@@ -219,29 +219,14 @@
       <jump line="17" column="41" filename="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/openam-auth-trees/auth-nodes/src/test/java/org/forgerock/openam/auth/nodes/MidiDecisionNodeTest.java" />
       <jump line="23" column="17" filename="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/openam-auth-trees/auth-nodes/src/main/java/org/forgerock/openam/auth/nodes/MidiDecisionNode.java" />
       <jump line="0" column="0" filename="$USER_HOME$/checkouts/mine/AudioAuth/example.json" />
+      <jump line="39" column="0" filename="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/openam-auth-trees/auth-nodes/src/main/java/org/forgerock/openam/auth/nodes/MidiDecisionNode.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">Q29sbGVjdGlvbjxNaWRpSGFuZGxlci5NaWRpRGF0YT4gc2VjcmV0RXZlbnRzID0g</text>
       </register>
       <register name="&quot;" type="4">
-        <text>[{&quot;status&quot;:&quot;144&quot;,&quot;note&quot;:&quot;60&quot;},
-&quot;status&quot;:&quot;128&quot;,&quot;note&quot;:&quot;60&quot;},
-&quot;status&quot;:&quot;144&quot;,&quot;note&quot;:&quot;62&quot;},
-&quot;status&quot;:&quot;128&quot;,&quot;note&quot;:&quot;62&quot;},
-&quot;status&quot;:&quot;144&quot;,&quot;note&quot;:&quot;64&quot;},
-&quot;status&quot;:&quot;128&quot;,&quot;note&quot;:&quot;64&quot;},
-&quot;status&quot;:&quot;144&quot;,&quot;note&quot;:&quot;65&quot;},
-&quot;status&quot;:&quot;128&quot;,&quot;note&quot;:&quot;65&quot;},
-&quot;status&quot;:&quot;144&quot;,&quot;note&quot;:&quot;67&quot;},
-&quot;status&quot;:&quot;128&quot;,&quot;note&quot;:&quot;67&quot;},
-&quot;status&quot;:&quot;144&quot;,&quot;note&quot;:&quot;65&quot;},
-&quot;status&quot;:&quot;128&quot;,&quot;note&quot;:&quot;65&quot;},
-&quot;status&quot;:&quot;144&quot;,&quot;note&quot;:&quot;64&quot;},
-&quot;status&quot;:&quot;128&quot;,&quot;note&quot;:&quot;64&quot;},
-&quot;status&quot;:&quot;144&quot;,&quot;note&quot;:&quot;62&quot;},
-&quot;status&quot;:&quot;128&quot;,&quot;note&quot;:&quot;62&quot;},
-&quot;status&quot;:&quot;144&quot;,&quot;note&quot;:&quot;60&quot;}]</text>
+        <text>MULTI_NOTE_SECRET</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -1275,59 +1260,57 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>MULTI_NOTE_SECRET</text>
       </register>
       <register name="/" type="4">
         <text>},{</text>
       </register>
-      <register name="0" type="4">
-        <text>[{&quot;status&quot;:&quot;144&quot;,&quot;note&quot;:&quot;60&quot;},
-&quot;status&quot;:&quot;128&quot;,&quot;note&quot;:&quot;60&quot;},
-&quot;status&quot;:&quot;144&quot;,&quot;note&quot;:&quot;62&quot;},
-&quot;status&quot;:&quot;128&quot;,&quot;note&quot;:&quot;62&quot;},
-&quot;status&quot;:&quot;144&quot;,&quot;note&quot;:&quot;64&quot;},
-&quot;status&quot;:&quot;128&quot;,&quot;note&quot;:&quot;64&quot;},
-&quot;status&quot;:&quot;144&quot;,&quot;note&quot;:&quot;65&quot;},
-&quot;status&quot;:&quot;128&quot;,&quot;note&quot;:&quot;65&quot;},
-&quot;status&quot;:&quot;144&quot;,&quot;note&quot;:&quot;67&quot;},
-&quot;status&quot;:&quot;128&quot;,&quot;note&quot;:&quot;67&quot;},
-&quot;status&quot;:&quot;144&quot;,&quot;note&quot;:&quot;65&quot;},
-&quot;status&quot;:&quot;128&quot;,&quot;note&quot;:&quot;65&quot;},
-&quot;status&quot;:&quot;144&quot;,&quot;note&quot;:&quot;64&quot;},
-&quot;status&quot;:&quot;128&quot;,&quot;note&quot;:&quot;64&quot;},
-&quot;status&quot;:&quot;144&quot;,&quot;note&quot;:&quot;62&quot;},
-&quot;status&quot;:&quot;128&quot;,&quot;note&quot;:&quot;62&quot;},
-&quot;status&quot;:&quot;144&quot;,&quot;note&quot;:&quot;60&quot;}]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNJTkdMRV9OT1RFX1NFQ1JFVCA9ICJbIHsgXCJzdGF0dXNcIjogXCIxNDRcIiwgXCJub3RlXCI6IFwiNjBcIiB9IF0iOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENvbGxlY3Rpb25zLmVtcHR5TGlzdCgpOwo=</text>
+      <register name="1" type="8">
+        <text>\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VjcmV0TWlkaURhdGEgPSBKc29uVmFsdWUuanNvbihKc29uLnJlYWRKc29uKFNUQVRVU18xNDRfTk9URV82MCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENvbGxlY3Rpb25zLmVtcHR5TGlzdCgpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGludCBub3RlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGludCBzdGF0dXM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGNsYXNzIE1pZGlFdmVudCB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL30sey99LFxyL2c=</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1367,8 +1350,8 @@
         <entry>1820</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL30sey99LFxyL2c=</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
