@@ -25,14 +25,17 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/forgerock/commons/forgerock-audit-handler-json/23.0.0/forgerock-audit-handler-json-23.0.0.jar!/org/forgerock/audit/handlers/json/JsonFileWriter.class" timestamp="1525440165386" />
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/RestAuthenticationHandler.java" timestamp="1525431100446" />
-      <file name="$USER_HOME$/checkouts/mine/AudioAuth/pom.xml" timestamp="1525959447666">
-        <mark key="[" line="19" column="21" />
-        <mark key="]" line="19" column="25" />
-        <mark key="^" line="19" column="25" />
-        <mark key="." line="19" column="25" />
+      <file name="$USER_HOME$/checkouts/mine/AudioAuth/pom.xml" timestamp="1525964551185">
+        <mark key="[" line="12" column="24" />
+        <mark key="]" line="12" column="29" />
+        <mark key="." line="12" column="29" />
+        <mark key="^" line="12" column="29" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/sm/ChoiceValues.java" timestamp="1525853680192">
         <mark key="'" line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/pom.xml" timestamp="1525964488876">
+        <mark key="'" line="124" column="35" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-audit/openam-audit-core/src/main/java/org/forgerock/openam/audit/AuditConstants.java" timestamp="1525438628772" />
       <file name="$USER_HOME$/checkouts/forgerock/forks/AudioAuth/src/org/forgerock/auth/audio/midi/MidiHandler.java" timestamp="1525949113353">
@@ -43,12 +46,12 @@
         <mark key="^" line="56" column="150" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-rest/src/main/java/org/forgerock/openam/rest/ProtocolVersionFilter.java" timestamp="1525427651622" />
-      <file name="$USER_HOME$/checkouts/mine/AudioAuth/src/main/java/org/forgerock/auth/audio/midi/Main.java" timestamp="1525961461971">
+      <file name="$USER_HOME$/checkouts/mine/AudioAuth/src/main/java/org/forgerock/auth/audio/midi/Main.java" timestamp="1525968470981">
         <mark key="'" line="40" column="13" />
-        <mark key="[" line="24" column="28" />
-        <mark key="]" line="24" column="29" />
-        <mark key="." line="24" column="29" />
-        <mark key="^" line="24" column="29" />
+        <mark key="[" line="45" column="63" />
+        <mark key="]" line="45" column="63" />
+        <mark key="." line="45" column="63" />
+        <mark key="^" line="45" column="63" />
       </file>
       <file name="$USER_HOME$/checkouts/mine/AudioAuth/src/org/forgerock/auth/audio/midi/MidiHandler.java" timestamp="1525957983849">
         <mark key="'" line="43" column="16" />
@@ -57,17 +60,34 @@
         <mark key="^" line="70" column="22" />
         <mark key="." line="70" column="22" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/javax/sound/midi/MidiMessage.java" timestamp="1525963318686" />
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-auth-trees/auth-trees-engine/src/main/java/org/forgerock/openam/auth/audit/AuthenticationTreeEventAuditor.java" timestamp="1525440892741" />
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/tests/temper-functional-tests/openam-ui-tests/src/test/java/com/forgerock/openam/functionaltest/policy/TestTransactionAuthentication.java" timestamp="1525345836709">
+        <mark key="'" line="1094" column="17" />
+      </file>
+      <file name="$USER_HOME$/checkouts/mine/AudioAuth/src/main/java/org/forgerock/auth/audio/midi/MidiHandlerOrig.java" timestamp="1525967332901">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="13" column="9" />
+        <mark key="]" line="13" column="10" />
+        <mark key="." line="13" column="10" />
+      </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/AudioAuth/src/org/forgerock/auth/audio/midi/Main.java" timestamp="1525948725423">
         <mark key="[" line="4" column="44" />
         <mark key="]" line="5" column="25" />
         <mark key="." line="5" column="25" />
         <mark key="^" line="5" column="25" />
       </file>
+      <file name="$USER_HOME$/checkouts/mine/AudioAuth/src/main/java/org/forgerock/auth/audio/midi/MidiHandler.java" timestamp="1525967857204">
+        <mark key="'" line="28" column="24" />
+        <mark key="[" line="45" column="38" />
+        <mark key="]" line="45" column="38" />
+        <mark key="." line="45" column="38" />
+        <mark key="^" line="55" column="49" />
+      </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/authentication/service/CompositeAdvices.java" timestamp="1525430996038" />
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/http/AuthenticationServiceV1.java" timestamp="1525436158453" />
       <file name="$MAVEN_REPOSITORY$/org/forgerock/http/chf-http-servlet/23.0.0/chf-http-servlet-23.0.0.jar!/org/forgerock/http/servlet/HttpFrameworkServlet.class" timestamp="1525428407492" />
-      <file name="/fragment.java" timestamp="1525961485593">
+      <file name="/fragment.java" timestamp="1525965588401">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/CoreRestAuthenticationGuiceModule.java" timestamp="1525266599492">
@@ -130,66 +150,81 @@
       <jump line="40" column="7" filename="$USER_HOME$/checkouts/mine/AudioAuth/src/main/java/org/forgerock/auth/audio/midi/Main.java" />
       <jump line="43" column="13" filename="$USER_HOME$/checkouts/mine/AudioAuth/src/main/java/org/forgerock/auth/audio/midi/Main.java" />
       <jump line="24" column="23" filename="$USER_HOME$/checkouts/mine/AudioAuth/src/main/java/org/forgerock/auth/audio/midi/Main.java" />
+      <jump line="29" column="49" filename="$USER_HOME$/checkouts/mine/AudioAuth/src/main/java/org/forgerock/auth/audio/midi/MidiHandler.java" />
+      <jump line="36" column="50" filename="$USER_HOME$/checkouts/mine/AudioAuth/src/main/java/org/forgerock/auth/audio/midi/MidiHandler.java" />
+      <jump line="40" column="36" filename="$USER_HOME$/checkouts/mine/AudioAuth/src/main/java/org/forgerock/auth/audio/midi/MidiHandler.java" />
+      <jump line="41" column="56" filename="$USER_HOME$/checkouts/mine/AudioAuth/src/main/java/org/forgerock/auth/audio/midi/MidiHandler.java" />
+      <jump line="43" column="28" filename="$USER_HOME$/checkouts/mine/AudioAuth/src/main/java/org/forgerock/auth/audio/midi/MidiHandler.java" />
+      <jump line="44" column="16" filename="$USER_HOME$/checkouts/mine/AudioAuth/src/main/java/org/forgerock/auth/audio/midi/MidiHandler.java" />
+      <jump line="47" column="35" filename="$USER_HOME$/checkouts/mine/AudioAuth/src/main/java/org/forgerock/auth/audio/midi/MidiHandler.java" />
+      <jump line="19" column="19" filename="$USER_HOME$/checkouts/mine/AudioAuth/src/main/java/org/forgerock/auth/audio/midi/MidiHandler.java" />
+      <jump line="23" column="16" filename="$USER_HOME$/checkouts/mine/AudioAuth/src/main/java/org/forgerock/auth/audio/midi/MidiHandler.java" />
+      <jump line="24" column="27" filename="$USER_HOME$/checkouts/mine/AudioAuth/src/main/java/org/forgerock/auth/audio/midi/MidiHandler.java" />
+      <jump line="25" column="44" filename="$USER_HOME$/checkouts/mine/AudioAuth/src/main/java/org/forgerock/auth/audio/midi/MidiHandler.java" />
+      <jump line="95" column="32" filename="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/pom.xml" />
+      <jump line="107" column="38" filename="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/pom.xml" />
+      <jump line="112" column="31" filename="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/pom.xml" />
+      <jump line="161" column="32" filename="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/pom.xml" />
+      <jump line="1336" column="54" filename="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/pom.xml" />
+      <jump line="2323" column="25" filename="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/pom.xml" />
+      <jump line="124" column="35" filename="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/pom.xml" />
+      <jump line="28" column="24" filename="$USER_HOME$/checkouts/mine/AudioAuth/src/main/java/org/forgerock/auth/audio/midi/MidiHandler.java" />
+      <jump line="59" column="0" filename="$USER_HOME$/checkouts/mine/AudioAuth/src/main/java/org/forgerock/auth/audio/midi/MidiHandlerOrig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>file</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbmV3IE1pZGlIYW5kbGVyT3JpZygpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>file</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">bmFtZSA9IA==</text>
+        <text>devices</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigicmVjb3JkIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3BlbkRldmljZShpbmZvcywgaSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBAUGFyYW1ldGVyKGNvbnZlcnRlciA9IEZpbGVDb252ZXJ0ZXIuY2xhc3MsIHJlcXVpcmVkID0gdHJ1ZSkKICAgICAgICBGaWxlIGV4YW1wbGVGaWxlOwoK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbmV3IE1pZGlIYW5kbGVyT3JpZygpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50cy4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIEdzb24gZ3NvbiA9IG5ldyBHc29uKCk7Ci8vICAgICAgICBUeXBlIHR5cGUgPSBUeXBlVG9rZW4uZ2V0UGFyYW1ldGVyaXplZChDb2xsZWN0aW9uLmNsYXNzLCBNaWRpRXZlbnQuY2xhc3MpLmdldFR5cGUoKTsKLy8gICAgICAgIENvbGxlY3Rpb248TWlkaUV2ZW50PiBleGFtcGxlRXZlbnRzID0gZ3Nvbi5mcm9tSnNvbihuZXcgRmlsZVJlYWRlcihuZXcgRmlsZShhcmdzLmV4YW1wbGVGaWxlKSksIHR5cGUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBHc29uIGdzb24gPSBuZXcgR3NvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBAUGFyYW1ldGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGV2aWNlLgo=</text>
       </register>
-      <register name="6" type="4">
-        <text>1.1.2</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>javax.json-api</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlIGlucHV0RGF0YSA9Cg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIE1pZGlIYW5kbGVyT3JpZyB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBhcmd2ID0geyAiLWxvZyIsICIyIiwgIi1ncm91cHMiLCAidW5pdCIgfTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">bmFtZSA9IA==</last-search>
+      <last-search>devices</last-search>
       <last-offset />
-      <last-pattern encoding="base64">bmFtZSA9IA==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>devices</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbnN0YWxsRXhhbXBsZVRyZWVcPg==</entry>
-        <entry encoding="base64">XDxpc0N1cnJlbnRDb25maWd1cmF0aW9uVmFsaWRcPg==</entry>
-        <entry encoding="base64">XDxub3RpZnlBbVN0YXJ0dXBcPg==</entry>
-        <entry encoding="base64">XDx3cml0ZUJhZENvbmZpZ3VyYXRpb25GaWxlXD4=</entry>
-        <entry encoding="base64">XDxhdWRpdG9yXD4=</entry>
-        <entry encoding="base64">XDxhdXRoZW50aWNhdGlvbk1vbml0b3JcPg==</entry>
         <entry encoding="base64">XDxhdXRoZW50aWNhdGlvblRyZWVFdmVudEF1ZGl0b3JcPg==</entry>
         <entry encoding="base64">XDxhdWRpdExvZ2luU3VjY2Vzc1w+</entry>
         <entry encoding="base64">XDxGYWlsdXJlUHJvY2Vzc1RyZWVSZXN1bHRcPg==</entry>
@@ -204,11 +239,17 @@
         <entry encoding="base64">PA==</entry>
         <entry>Mode</entry>
         <entry encoding="base64">bmFtZSA9IA==</entry>
+        <entry encoding="base64">XDxkZXZpY2VcPg==</entry>
+        <entry>verion</entry>
+        <entry>version</entry>
+        <entry>complier.ver</entry>
+        <entry>1.8</entry>
+        <entry>devices</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>1820</entry>
+        <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
@@ -239,6 +280,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
