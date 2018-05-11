@@ -4,12 +4,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/iplanet/sso/providers/dpro/SSOProviderBundle.java" timestamp="1525431000212" />
-      <file name="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/openam-auth-trees/auth-nodes/src/test/java/org/forgerock/openam/auth/nodes/MidiDecisionNodeTest.java" timestamp="1526045344651">
+      <file name="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/openam-auth-trees/auth-nodes/src/test/java/org/forgerock/openam/auth/nodes/MidiDecisionNodeTest.java" timestamp="1526054015233">
         <mark key="'" line="22" column="41" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="29" column="7" />
-        <mark key="." line="33" column="0" />
+        <mark key="[" line="28" column="17" />
+        <mark key="]" line="28" column="17" />
+        <mark key="^" line="28" column="17" />
+        <mark key="." line="28" column="17" />
       </file>
       <file name="$USER_HOME$/checkouts/mine/AudioAuth/src/org/forgerock/auth/audio/midi/Main.java" timestamp="1525958216068">
         <mark key="[" line="5" column="0" />
@@ -27,9 +27,7 @@
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/iplanet/dpro/session/SessionIDEncoder.java" timestamp="1525431411282" />
       <file name="$USER_HOME$/checkouts/mine/AudioAuth/example.json" timestamp="1526048622239">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="16" column="27" />
+        <mark key="]" line="0" column="27" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/AuthTrees.java" timestamp="1525347647360" />
       <file name="$MAVEN_REPOSITORY$/org/forgerock/commons/forgerock-jaspi-runtime/23.0.0/forgerock-jaspi-runtime-23.0.0.jar!/org/forgerock/caf/authentication/framework/AuthenticationFramework.class" timestamp="1525428818482" />
@@ -77,12 +75,12 @@
         <mark key="]" line="42" column="57" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-auth-trees/auth-trees-engine/src/main/java/org/forgerock/openam/auth/audit/AuthenticationTreeEventAuditor.java" timestamp="1525440892741" />
-      <file name="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/openam-auth-trees/auth-nodes/src/main/java/org/forgerock/openam/auth/nodes/MidiDecisionNode.java" timestamp="1526049083727">
+      <file name="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/openam-auth-trees/auth-nodes/src/main/java/org/forgerock/openam/auth/nodes/MidiDecisionNode.java" timestamp="1526054216893">
         <mark key="'" line="55" column="0" />
-        <mark key="[" line="45" column="58" />
-        <mark key="]" line="45" column="75" />
-        <mark key="^" line="45" column="75" />
-        <mark key="." line="45" column="75" />
+        <mark key="[" line="22" column="90" />
+        <mark key="]" line="22" column="90" />
+        <mark key="^" line="45" column="74" />
+        <mark key="." line="22" column="90" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/tests/temper-functional-tests/openam-ui-tests/src/test/java/com/forgerock/openam/functionaltest/policy/TestTransactionAuthentication.java" timestamp="1525345836709">
         <mark key="'" line="1094" column="17" />
@@ -106,7 +104,7 @@
         <mark key="." line="8" column="28" />
         <mark key="^" line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/checkouts/mine/AudioAuth/src/main/java/org/forgerock/auth/audio/midi/MidiHandler.java" timestamp="1526048403566">
+      <file name="$USER_HOME$/checkouts/mine/AudioAuth/src/main/java/org/forgerock/auth/audio/midi/MidiHandler.java" timestamp="1526054744635">
         <mark key="'" line="30" column="24" />
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -226,7 +224,7 @@
         <text encoding="base64">Q29sbGVjdGlvbjxNaWRpSGFuZGxlci5NaWRpRGF0YT4gc2VjcmV0RXZlbnRzID0g</text>
       </register>
       <register name="&quot;" type="4">
-        <text>MULTI_NOTE_SECRET</text>
+        <text>object</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -1260,10 +1258,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>MULTI_NOTE_SECRET</text>
+        <text>object</text>
       </register>
       <register name="/" type="4">
-        <text>},{</text>
+        <text encoding="base64">XDxcXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNJTkdMRV9OT1RFX1NFQ1JFVCA9ICJbIHsgXCJzdGF0dXNcIjogXCIxNDRcIiwgXCJub3RlXCI6IFwiNjBcIiB9IF0iOwo=</text>
@@ -1314,9 +1312,9 @@
       </register>
     </registers>
     <search>
-      <last-search>},{</last-search>
+      <last-search encoding="base64">XDxcXD4=</last-search>
       <last-offset />
-      <last-pattern>},{</last-pattern>
+      <last-pattern encoding="base64">XDxcXD4=</last-pattern>
       <last-replace>},\r</last-replace>
       <last-substitute>},{</last-substitute>
       <last-dir>1</last-dir>
@@ -1324,7 +1322,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVhdGVUcmVlRm9yVHJhbnNhY3Rpb25Db25kaXRpb25Ub1VzZVRvQXV0aGVudGljYXRlXD4=</entry>
         <entry encoding="base64">XDxDb25kaXRpb25cPg==</entry>
         <entry encoding="base64">XDx1cGRhdGVNZXRyaWNzXD4=</entry>
         <entry>run</entry>
@@ -1344,6 +1341,7 @@
         <entry encoding="base64">XDxpbml0TW9ja3NcPg==</entry>
         <entry encoding="base64">XDxnZXRDb250ZXh0XD4=</entry>
         <entry>},{</entry>
+        <entry encoding="base64">XDxcXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
