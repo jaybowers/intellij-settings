@@ -38,6 +38,13 @@
         <mark key="." line="7" column="36" />
         <mark key="^" line="8" column="43" />
       </file>
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-server-only/pom.xml" timestamp="1526310938822">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="971" column="24" />
+        <mark key="]" line="971" column="24" />
+        <mark key="^" line="969" column="46" />
+        <mark key="." line="971" column="24" />
+      </file>
       <file name="$USER_HOME$/checkouts/mine/AudioAuth/pom.xml" timestamp="1525964551185">
         <mark key="[" line="12" column="24" />
         <mark key="]" line="12" column="29" />
@@ -82,7 +89,7 @@
         <mark key="^" line="45" column="74" />
         <mark key="." line="22" column="90" />
       </file>
-      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/org/forgerock/openam/plugins/PluginLifecycle.java" timestamp="1526307808879">
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/org/forgerock/openam/plugins/PluginLifecycle.java" timestamp="1526311098119">
         <mark key="'" line="61" column="14" />
         <mark key="[" line="54" column="32" />
         <mark key="]" line="54" column="41" />
@@ -125,6 +132,7 @@
         <mark key="^" line="12" column="71" />
         <mark key="." line="12" column="71" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/forgerock/plugins/boom/boom-plugin/1.0-SNAPSHOT/boom-plugin-1.0-SNAPSHOT.jar!/org/forgerock/plugins/boom/BoomPlugin.class" timestamp="1526311489162" />
       <file name="$USER_HOME$/checkouts/mine/boom-plugin/pom.xml" timestamp="1526308143222">
         <mark key="]" line="13" column="46" />
         <mark key="^" line="13" column="46" />
@@ -135,8 +143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="46" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/FailureProcessTreeResult.java" />
-      <jump line="63" column="12" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/FailureProcessTreeResult.java" />
       <jump line="164" column="8" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/SuccessProcessTreeResult.java" />
       <jump line="111" column="12" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/SuccessProcessTreeResult.java" />
       <jump line="31" column="50" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/CoreRestAuthenticationGuiceModule.java" />
@@ -235,13 +241,15 @@
       <jump line="1043" column="6" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupServlet.java" />
       <jump line="54" column="32" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/org/forgerock/openam/plugins/PluginLifecycle.java" />
       <jump line="61" column="14" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/org/forgerock/openam/plugins/PluginLifecycle.java" />
+      <jump line="969" column="39" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-server-only/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-server-only/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">Q29sbGVjdGlvbjxNaWRpSGFuZGxlci5NaWRpRGF0YT4gc2VjcmV0RXZlbnRzID0g</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ISA=</text>
+        <text>0</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -1275,7 +1283,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ISA=</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbGxQbHVnaW5zXD4=</text>
