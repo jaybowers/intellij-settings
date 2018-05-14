@@ -16,7 +16,7 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupServlet.java" timestamp="1526306248099">
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupServlet.java" timestamp="1526307680212">
         <mark key="'" line="1043" column="6" />
         <mark key="[" line="477" column="16" />
         <mark key="]" line="477" column="22" />
@@ -32,6 +32,12 @@
       <file name="$USER_HOME$/checkouts/mine/AudioAuth/example.json" timestamp="1526048622239">
         <mark key="]" line="0" column="27" />
       </file>
+      <file name="$USER_HOME$/checkouts/mine/boom-plugin/src/main/resources/WEB-INF.services/org.forgerock.openam.plugins.AmPlugin" timestamp="1526308332305">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="36" />
+        <mark key="." line="7" column="36" />
+        <mark key="^" line="8" column="43" />
+      </file>
       <file name="$USER_HOME$/checkouts/mine/AudioAuth/pom.xml" timestamp="1525964551185">
         <mark key="[" line="12" column="24" />
         <mark key="]" line="12" column="29" />
@@ -43,7 +49,7 @@
         <mark key="[" line="68" column="0" />
         <mark key="]" line="69" column="75" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526045758970">
+      <file name="/Dummy.txt" timestamp="1526308705967">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-auth-trees/auth-trees-engine/src/main/java/org/forgerock/openam/auth/nodes/framework/FrameworkNodesPlugin.java" timestamp="1526305806566">
@@ -76,11 +82,11 @@
         <mark key="^" line="45" column="74" />
         <mark key="." line="22" column="90" />
       </file>
-      <file name="$USER_HOME$/checkouts/mine/AudioAuth/src/main/java/org/forgerock/auth/audio/midi/MidiHandlerOrig.java" timestamp="1525967332901">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="13" column="9" />
-        <mark key="]" line="13" column="10" />
-        <mark key="." line="13" column="10" />
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/org/forgerock/openam/plugins/PluginLifecycle.java" timestamp="1526307808879">
+        <mark key="'" line="61" column="14" />
+        <mark key="[" line="54" column="32" />
+        <mark key="]" line="54" column="41" />
+        <mark key="." line="54" column="41" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/AudioAuth/src/org/forgerock/auth/audio/midi/Main.java" timestamp="1525948725423">
         <mark key="[" line="4" column="44" />
@@ -113,13 +119,22 @@
         <mark key="^" line="102" column="26" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/checkouts/mine/boom-plugin/src/main/java/org/forgerock/plugins/boom/BoomPlugin.java" timestamp="1526308631864">
+        <mark key="[" line="12" column="71" />
+        <mark key="]" line="12" column="71" />
+        <mark key="^" line="12" column="71" />
+        <mark key="." line="12" column="71" />
+      </file>
+      <file name="$USER_HOME$/checkouts/mine/boom-plugin/pom.xml" timestamp="1526308143222">
+        <mark key="]" line="13" column="46" />
+        <mark key="^" line="13" column="46" />
+        <mark key="." line="13" column="46" />
+      </file>
       <file name="/fragment.java" timestamp="1526047619143">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="14" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/FailureProcessTreeResult.java" />
-      <jump line="45" column="53" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/FailureProcessTreeResult.java" />
       <jump line="48" column="46" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/FailureProcessTreeResult.java" />
       <jump line="63" column="12" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/FailureProcessTreeResult.java" />
       <jump line="164" column="8" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core-rest/src/main/java/org/forgerock/openam/core/rest/authn/trees/SuccessProcessTreeResult.java" />
@@ -218,13 +233,15 @@
       <jump line="1027" column="26" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupServlet.java" />
       <jump line="1041" column="15" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupServlet.java" />
       <jump line="1043" column="6" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupServlet.java" />
+      <jump line="54" column="32" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/org/forgerock/openam/plugins/PluginLifecycle.java" />
+      <jump line="61" column="14" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/org/forgerock/openam/plugins/PluginLifecycle.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">Q29sbGVjdGlvbjxNaWRpSGFuZGxlci5NaWRpRGF0YT4gc2VjcmV0RXZlbnRzID0g</text>
       </register>
       <register name="&quot;" type="4">
-        <text>throw new ConfiguratorException(&quot;License not check failed&quot;);</text>
+        <text encoding="base64">ISA=</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -1258,13 +1275,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>throw new ConfiguratorException(&quot;License not check failed&quot;);</text>
+        <text encoding="base64">ISA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDb25maWd1cmF0b3JFeGNlcHRpb24oIiI=</text>
+        <text encoding="base64">XDxhbGxQbHVnaW5zXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNJTkdMRV9OT1RFX1NFQ1JFVCA9ICJbIHsgXCJzdGF0dXNcIjogXCIxNDRcIiwgXCJub3RlXCI6IFwiNjBcIiB9IF0iOwo=</text>
+      <register name="0" type="4">
+        <text>org.forgerock.plugins.boom.BoomPlugin</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGluc3RhbGxFeGFtcGxlVHJlZSgpOwogICAgICAgICAgICAgICAgaW5zdGFsbFJldHJ5TGltaXRUcmVlKCk7Cg==</text>
@@ -1298,9 +1315,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDb25maWd1cmF0b3JFeGNlcHRpb24oIiI=</last-search>
+      <last-search encoding="base64">XDxhbGxQbHVnaW5zXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDb25maWd1cmF0b3JFeGNlcHRpb24oIiI=</last-pattern>
+      <last-pattern encoding="base64">XDxhbGxQbHVnaW5zXD4=</last-pattern>
       <last-replace>},\r</last-replace>
       <last-substitute>},{</last-substitute>
       <last-dir>1</last-dir>
@@ -1308,7 +1325,6 @@
     </search>
     <history>
       <history-search>
-        <entry>version</entry>
         <entry>complier.ver</entry>
         <entry>1.8</entry>
         <entry>devices</entry>
@@ -1328,6 +1344,7 @@
         <entry encoding="base64">XDwvXD4=</entry>
         <entry encoding="base64">XDxDb25maWd1cmF0b3JFeGNlcHRpb25cPg==</entry>
         <entry encoding="base64">XDxDb25maWd1cmF0b3JFeGNlcHRpb24oIiI=</entry>
+        <entry encoding="base64">XDxhbGxQbHVnaW5zXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
