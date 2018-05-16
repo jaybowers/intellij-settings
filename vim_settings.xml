@@ -60,10 +60,10 @@
       <file name="/Dummy.txt" timestamp="1526463296091">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-auth-trees/auth-trees-engine/src/main/java/org/forgerock/openam/auth/nodes/framework/FrameworkNodesPlugin.java" timestamp="1526463983294">
-        <mark key="[" line="122" column="17" />
-        <mark key="]" line="123" column="75" />
-        <mark key="." line="123" column="75" />
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-auth-trees/auth-trees-engine/src/main/java/org/forgerock/openam/auth/nodes/framework/FrameworkNodesPlugin.java" timestamp="1526468296325">
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
         <mark key="^" line="123" column="75" />
       </file>
       <file name="$USER_HOME$/checkouts/mine/AudioAuth/src/main/java/org/forgerock/auth/audio/midi/Main.java" timestamp="1526031815829">
@@ -145,7 +145,7 @@
         <mark key="^" line="13" column="46" />
         <mark key="." line="13" column="46" />
       </file>
-      <file name="/fragment.java" timestamp="1526463433295">
+      <file name="/fragment.java" timestamp="1526468387372">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -255,8 +255,8 @@
       <register name="a" type="4">
         <text encoding="base64">Q29sbGVjdGlvbjxNaWRpSGFuZGxlci5NaWRpRGF0YT4gc2VjcmV0RXZlbnRzID0g</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmZvcmdlcm9jay5wbHVnaW5zLmJvb208L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmJvb20tcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjAtU05BUFNIT1Q8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -1290,7 +1290,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbGxQbHVnaW5zXD4=</text>
