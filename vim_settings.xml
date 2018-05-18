@@ -77,9 +77,6 @@
         <mark key="^" line="13" column="46" />
         <mark key="." line="13" column="46" />
       </file>
-      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupServlet.java" timestamp="1526550515531">
-        <mark key="'" line="284" column="26" />
-      </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/openam-auth-trees/auth-nodes/src/main/java/org/forgerock/openam/auth/nodes/NodesPlugin.java" timestamp="1526034442682">
         <mark key="[" line="57" column="20" />
         <mark key="]" line="57" column="31" />
