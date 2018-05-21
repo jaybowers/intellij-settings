@@ -10,6 +10,11 @@
         <mark key="^" line="28" column="17" />
         <mark key="." line="28" column="17" />
       </file>
+      <file name="$USER_HOME$/checkouts/3rdparty/maven-archetype-catalog-plugin/src/test/java/it/mexican/plugins/HttpTemplateTest.java" timestamp="1526902531389">
+        <mark key="[" line="63" column="65" />
+        <mark key="]" line="63" column="65" />
+        <mark key="." line="63" column="65" />
+      </file>
       <file name="$USER_HOME$/checkouts/mine/AudioAuth/src/org/forgerock/auth/audio/midi/Main.java" timestamp="1525958216068">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="9" column="3" />
@@ -24,9 +29,6 @@
         <mark key="]" line="57" column="31" />
         <mark key="." line="57" column="31" />
         <mark key="^" line="57" column="31" />
-      </file>
-      <file name="$USER_HOME$/checkouts/mine/AudioAuth/example.json" timestamp="1526048622239">
-        <mark key="]" line="0" column="27" />
       </file>
       <file name="$USER_HOME$/checkouts/mine/boom-plugin/src/main/resources/WEB-INF.services/org.forgerock.openam.plugins.AmPlugin" timestamp="1526308332305">
         <mark key="[" line="8" column="0" />
@@ -58,6 +60,11 @@
         <mark key="." line="121" column="0" />
         <mark key="^" line="123" column="0" />
       </file>
+      <file name="$USER_HOME$/checkouts/3rdparty/maven-archetype-catalog-plugin/src/main/java/it/mexican/plugin/util/HttpTemplate.java" timestamp="1526902382066">
+        <mark key="[" line="27" column="40" />
+        <mark key="]" line="27" column="40" />
+        <mark key="." line="27" column="40" />
+      </file>
       <file name="$USER_HOME$/checkouts/mine/AudioAuth/src/main/java/org/forgerock/auth/audio/midi/Main.java" timestamp="1526031815829">
         <mark key="'" line="68" column="52" />
         <mark key="[" line="52" column="45" />
@@ -65,10 +72,11 @@
         <mark key="." line="52" column="49" />
         <mark key="^" line="52" column="49" />
       </file>
-      <file name="$USER_HOME$/checkouts/3rdparty/maven-archetype-catalog-plugin/src/main/java/it/mexican/plugin/ArchetypeCatalogUpdatorMojo.java" timestamp="1526898528196">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+      <file name="$USER_HOME$/checkouts/3rdparty/maven-archetype-catalog-plugin/src/main/java/it/mexican/plugin/ArchetypeCatalogUpdatorMojo.java" timestamp="1526902391319">
+        <mark key="[" line="70" column="69" />
+        <mark key="]" line="70" column="69" />
+        <mark key="." line="70" column="69" />
+        <mark key="^" line="70" column="66" />
       </file>
       <file name="$USER_HOME$/checkouts/mine/AudioAuth/src/org/forgerock/auth/audio/midi/MidiHandler.java" timestamp="1525957983849">
         <mark key="'" line="43" column="16" />
@@ -141,6 +149,7 @@
         <mark key="^" line="13" column="46" />
         <mark key="." line="13" column="46" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.3.1/httpclient-4.3.1-sources.jar!/org/apache/http/impl/auth/BasicScheme.java" timestamp="1526901842348" />
       <file name="/fragment.java" timestamp="1526550393099">
         <mark key="[" line="0" column="0" />
       </file>
@@ -251,14 +260,14 @@
       <register name="a" type="4">
         <text encoding="base64">Q29sbGVjdGlvbjxNaWRpSGFuZGxlci5NaWRpRGF0YT4gc2VjcmV0RXZlbnRzID0g</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="k" type="4">
         <text>kkkkkjjllllhhlllllllllljkkkjjkkkkkkjjl</text>
       </register>
       <register name="-" type="4">
-        <text>password [&quot;+password+&quot;]</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
         <text>&quot;)</text>
