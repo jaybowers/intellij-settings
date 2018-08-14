@@ -5,4 +5,10 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="slf4j" value="private static final org.slf4j.Logger logger = org.slf4j.LoggerFactory.getLogger($CLASS$.class);" description="Simple Logging Facade for Java Logger" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
 </templateSet>
