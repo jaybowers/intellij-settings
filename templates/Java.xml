@@ -11,7 +11,14 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="should" value="public should" description="Test NG BDD should test method" toReformat="false" toShortenFQNames="true">
+  <template name="should" value="@org.testng.annotations.Test&#10;public void should$do$() {&#10;    // given&#10;    $sut$ subject = new $sut$$sutArgs$;&#10;    &#10;    // when&#10;    $acctualType$ $actual$ = subject.$sutAction$;&#10;    &#10;    // then&#10;    org.hamcrest.MatcherAssert.assertThat($actual$, org.hamcrest.CoreMatchers.is($matcher$));&#10;}&#10;" description="Test NG BDD should test method" toReformat="false" toShortenFQNames="true">
+    <variable name="do" expression="" defaultValue="&quot;description&quot;" alwaysStopAt="true" />
+    <variable name="acctualType" expression="Object" defaultValue="&quot;Object&quot;" alwaysStopAt="true" />
+    <variable name="sutArgs" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="actual" expression="" defaultValue="&quot;actual&quot;" alwaysStopAt="true" />
+    <variable name="sut" expression="groovyScript(&quot;_1.replaceAll('Test$', '')&quot;, className)" defaultValue="&quot;sut&quot;" alwaysStopAt="true" />
+    <variable name="sutAction" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="matcher" expression="" defaultValue="&quot;\&quot;\&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
