@@ -79,6 +79,11 @@
         <mark key="." line="88" column="0" />
         <mark key="^" line="93" column="4" />
       </file>
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/sm/FileBasedConfigServiceList.java" timestamp="1536932513269">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="163" column="123" />
+        <mark key="." line="163" column="123" />
+      </file>
       <file name="$USER_HOME$/checkouts/mine/AudioAuth/src/org/forgerock/auth/audio/midi/MidiHandler.java" timestamp="1525957983849">
         <mark key="'" line="43" column="16" />
         <mark key="[" line="69" column="24" />
@@ -150,7 +155,6 @@
         <mark key="^" line="13" column="46" />
         <mark key="." line="13" column="46" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.3.1/httpclient-4.3.1-sources.jar!/org/apache/http/impl/auth/BasicScheme.java" timestamp="1526901842348" />
       <file name="/fragment.java" timestamp="1526550393099">
         <mark key="[" line="0" column="0" />
       </file>
@@ -469,7 +473,7 @@
         <text encoding="base64">CQlodHRwVGVtcGxhdGVrbAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
     </registers>
     <search>
@@ -513,6 +517,7 @@
         <entry>set incsearch</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zb3J0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
