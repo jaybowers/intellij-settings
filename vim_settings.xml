@@ -91,6 +91,9 @@
         <mark key="^" line="70" column="22" />
         <mark key="." line="70" column="22" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1537975799016">
+        <mark key="'" line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/openam-auth-trees/auth-nodes/src/main/java/org/forgerock/openam/auth/nodes/MidiDecisionNode.java" timestamp="1526054216893">
         <mark key="'" line="55" column="0" />
         <mark key="[" line="22" column="90" />
@@ -160,8 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="32" filename="$USER_HOME$/checkouts/forgerock/forks/openam/tests/temper-functional-tests/openam-ui-tests/src/test/java/com/forgerock/openam/functionaltest/policy/TestTransactionAuthentication.java" />
-      <jump line="173" column="28" filename="$USER_HOME$/checkouts/forgerock/forks/openam/tests/temper-functional-tests/openam-ui-tests/src/test/java/com/forgerock/openam/functionaltest/policy/TestTransactionAuthentication.java" />
       <jump line="528" column="17" filename="$USER_HOME$/checkouts/forgerock/forks/openam/tests/temper-functional-tests/openam-ui-tests/src/test/java/com/forgerock/openam/functionaltest/policy/TestTransactionAuthentication.java" />
       <jump line="148" column="45" filename="$USER_HOME$/checkouts/forgerock/forks/openam/tests/temper-functional-tests/openam-ui-tests/src/test/java/com/forgerock/openam/functionaltest/policy/TestTransactionAuthentication.java" />
       <jump line="262" column="49" filename="$USER_HOME$/checkouts/forgerock/forks/openam/tests/temper-functional-tests/openam-ui-tests/src/test/java/com/forgerock/openam/functionaltest/policy/TestTransactionAuthentication.java" />
@@ -260,6 +261,8 @@
       <jump line="280" column="23" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupServlet.java" />
       <jump line="281" column="8" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupServlet.java" />
       <jump line="284" column="26" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupServlet.java" />
+      <jump line="0" column="23" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
+      <jump line="8" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -275,7 +278,7 @@
         <text encoding="base64">QXJjaGV0eXBlQ2F0YWxvZyA=</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;)</text>
+        <text>.*&quot;\(.*\)&quot;;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJYXJjaGV0eXBlQ2F0YWxvZyA9IEpBWEJDb252ZXJ0ZXIuc3RyaW5nVG9PYmplY3QoYXJjaGV0eXBlQ2F0YWxvZ1R4dCwgQXJjaGV0eXBlQ2F0YWxvZy5jbGFzcyk7Cg==</text>
@@ -473,24 +476,20 @@
         <text encoding="base64">CQlodHRwVGVtcGxhdGVrbAo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zb3J0</text>
+        <text>%s/.*&quot;\(.*\)&quot;;/\1/</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;)</last-search>
+      <last-search>.*&quot;\(.*\)&quot;;</last-search>
       <last-offset />
-      <last-pattern>&quot;)</last-pattern>
-      <last-replace>},\r</last-replace>
-      <last-substitute>},{</last-substitute>
+      <last-pattern>.*&quot;\(.*\)&quot;;</last-pattern>
+      <last-replace>\1</last-replace>
+      <last-substitute>.*&quot;\(.*\)&quot;;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>capture</entry>
-        <entry>private</entry>
-        <entry encoding="base64">XDxpbml0TW9ja3NcPg==</entry>
-        <entry encoding="base64">XDxnZXRDb250ZXh0XD4=</entry>
         <entry>},{</entry>
         <entry encoding="base64">XDxcXD4=</entry>
         <entry encoding="base64">XDxlcnJvck1lc3NhZ2VcPg==</entry>
@@ -507,6 +506,10 @@
         <entry>)</entry>
         <entry>))</entry>
         <entry>&quot;)</entry>
+        <entry>.*&quot;</entry>
+        <entry>.*?&quot;</entry>
+        <entry>.*\?&quot;</entry>
+        <entry>.*&quot;\(.*\)&quot;;</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -518,6 +521,12 @@
         <entry>W</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry>%s/.*&quot;//</entry>
+        <entry>%s/.*?&quot;//</entry>
+        <entry>%s/.*\?&quot;//</entry>
+        <entry>%perldo %s/.*?&quot;//</entry>
+        <entry>%perldo %s/.*&quot;//</entry>
+        <entry>%s/.*&quot;\(.*\)&quot;;/\1/</entry>
       </history-cmd>
       <history-expr />
       <history-input />
