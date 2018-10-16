@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/openam-auth-trees/auth-nodes/src/test/java/org/forgerock/openam/auth/nodes/MidiDecisionNodeTest.java" timestamp="1526054015233">
@@ -22,6 +22,9 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
+      <file name="/a.dummy" timestamp="1539702546896">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-server/pom.xml" timestamp="1526312186331">
         <mark key="'" line="0" column="0" />
       </file>
@@ -37,6 +40,7 @@
         <mark key="." line="7" column="36" />
         <mark key="^" line="8" column="43" />
       </file>
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-federation/openam-federation-library/src/main/java/org/forgerock/openam/saml2/UtilProxySAMLAuthenticatorLookup.java" timestamp="1539702830700" />
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-server-only/pom.xml" timestamp="1526312177086">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="968" column="0" />
@@ -158,12 +162,13 @@
         <mark key="^" line="13" column="46" />
         <mark key="." line="13" column="46" />
       </file>
-      <file name="/fragment.java" timestamp="1526550393099">
+      <file name="/fragment.java" timestamp="1539702654008">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="528" column="17" filename="$USER_HOME$/checkouts/forgerock/forks/openam/tests/temper-functional-tests/openam-ui-tests/src/test/java/com/forgerock/openam/functionaltest/policy/TestTransactionAuthentication.java" />
       <jump line="148" column="45" filename="$USER_HOME$/checkouts/forgerock/forks/openam/tests/temper-functional-tests/openam-ui-tests/src/test/java/com/forgerock/openam/functionaltest/policy/TestTransactionAuthentication.java" />
       <jump line="262" column="49" filename="$USER_HOME$/checkouts/forgerock/forks/openam/tests/temper-functional-tests/openam-ui-tests/src/test/java/com/forgerock/openam/functionaltest/policy/TestTransactionAuthentication.java" />
       <jump line="869" column="70" filename="$USER_HOME$/checkouts/forgerock/forks/openam/tests/temper-functional-tests/openam-ui-tests/src/test/java/com/forgerock/openam/functionaltest/policy/TestTransactionAuthentication.java" />
@@ -263,19 +268,20 @@
       <jump line="284" column="26" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/setup/AMSetupServlet.java" />
       <jump line="0" column="23" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
       <jump line="8" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
+      <jump line="0" column="28" filename="/fragment.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">Q29sbGVjdGlvbjxNaWRpSGFuZGxlci5NaWRpRGF0YT4gc2VjcmV0RXZlbnRzID0g</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>sessionProvider.getSession(request)</text>
       </register>
       <register name="k" type="4">
         <text>kkkkkjjllllhhlllllllllljkkkjjkkkkkkjjl</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QXJjaGV0eXBlQ2F0YWxvZyA=</text>
+        <text>sessionProvider.getSession(request)</text>
       </register>
       <register name="/" type="4">
         <text>.*&quot;\(.*\)&quot;;</text>
