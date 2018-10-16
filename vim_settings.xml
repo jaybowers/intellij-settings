@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/openam-auth-trees/auth-nodes/src/test/java/org/forgerock/openam/auth/nodes/MidiDecisionNodeTest.java" timestamp="1526054015233">
-        <mark key="'" line="22" column="41" />
-        <mark key="[" line="28" column="17" />
-        <mark key="]" line="28" column="17" />
-        <mark key="^" line="28" column="17" />
-        <mark key="." line="28" column="17" />
-      </file>
       <file name="$USER_HOME$/checkouts/3rdparty/maven-archetype-catalog-plugin/src/test/java/it/mexican/plugins/HttpTemplateTest.java" timestamp="1526903072839">
         <mark key="[" line="69" column="77" />
         <mark key="]" line="69" column="79" />
@@ -47,11 +40,17 @@
         <mark key="]" line="968" column="0" />
         <mark key="." line="968" column="0" />
       </file>
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-federation/openam-federation-library/src/main/java/com/sun/identity/saml2/common/SAML2Utils.java" timestamp="1539703379493" />
       <file name="$USER_HOME$/checkouts/mine/AudioAuth/pom.xml" timestamp="1525964551185">
         <mark key="[" line="12" column="24" />
         <mark key="]" line="12" column="29" />
         <mark key="." line="12" column="29" />
         <mark key="^" line="12" column="29" />
+      </file>
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-federation/openam-federation-library/src/main/java/com/sun/identity/saml2/profile/IDPSSOFederate.java" timestamp="1539703769774">
+        <mark key="[" line="237" column="16" />
+        <mark key="]" line="238" column="0" />
+        <mark key="." line="238" column="0" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/pom.xml" timestamp="1525964488876">
         <mark key="'" line="124" column="35" />
@@ -70,13 +69,6 @@
         <mark key="]" line="27" column="40" />
         <mark key="." line="27" column="40" />
       </file>
-      <file name="$USER_HOME$/checkouts/mine/AudioAuth/src/main/java/org/forgerock/auth/audio/midi/Main.java" timestamp="1526031815829">
-        <mark key="'" line="68" column="52" />
-        <mark key="[" line="52" column="45" />
-        <mark key="]" line="52" column="49" />
-        <mark key="." line="52" column="49" />
-        <mark key="^" line="52" column="49" />
-      </file>
       <file name="$USER_HOME$/checkouts/3rdparty/maven-archetype-catalog-plugin/src/main/java/it/mexican/plugin/ArchetypeCatalogUpdatorMojo.java" timestamp="1526903334369">
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
@@ -88,22 +80,8 @@
         <mark key="]" line="163" column="123" />
         <mark key="." line="163" column="123" />
       </file>
-      <file name="$USER_HOME$/checkouts/mine/AudioAuth/src/org/forgerock/auth/audio/midi/MidiHandler.java" timestamp="1525957983849">
-        <mark key="'" line="43" column="16" />
-        <mark key="[" line="69" column="24" />
-        <mark key="]" line="70" column="22" />
-        <mark key="^" line="70" column="22" />
-        <mark key="." line="70" column="22" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1537975799016">
         <mark key="'" line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/openam-auth-trees/auth-nodes/src/main/java/org/forgerock/openam/auth/nodes/MidiDecisionNode.java" timestamp="1526054216893">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="22" column="90" />
-        <mark key="]" line="22" column="90" />
-        <mark key="^" line="45" column="74" />
-        <mark key="." line="22" column="90" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/tests/temper-functional-tests/openam-ui-tests/src/test/java/com/forgerock/openam/functionaltest/policy/TestTransactionAuthentication.java" timestamp="1525345836709">
         <mark key="'" line="1094" column="17" />
@@ -114,6 +92,7 @@
         <mark key="]" line="13" column="10" />
         <mark key="." line="13" column="10" />
       </file>
+      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-federation/openam-federation-library/src/main/java/com/sun/identity/saml2/meta/SAML2MetaManager.java" timestamp="1539703841527" />
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/org/forgerock/openam/plugins/PluginLifecycle.java" timestamp="1526554080087">
         <mark key="'" line="61" column="14" />
         <mark key="[" line="54" column="32" />
@@ -144,13 +123,6 @@
         <mark key="^" line="279" column="39" />
         <mark key="." line="279" column="12" />
       </file>
-      <file name="$USER_HOME$/checkouts/mine/AudioAuth/src/main/java/org/forgerock/auth/audio/midi/MidiHandler.java" timestamp="1526054744635">
-        <mark key="'" line="30" column="24" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="102" column="26" />
-        <mark key="." line="48" column="0" />
-      </file>
       <file name="$USER_HOME$/checkouts/mine/boom-plugin/src/main/java/org/forgerock/plugins/boom/BoomPlugin.java" timestamp="1526308631864">
         <mark key="[" line="12" column="71" />
         <mark key="]" line="12" column="71" />
@@ -162,7 +134,7 @@
         <mark key="^" line="13" column="46" />
         <mark key="." line="13" column="46" />
       </file>
-      <file name="/fragment.java" timestamp="1539702654008">
+      <file name="/fragment.java" timestamp="1539703870032">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -274,14 +246,14 @@
       <register name="a" type="4">
         <text encoding="base64">Q29sbGVjdGlvbjxNaWRpSGFuZGxlci5NaWRpRGF0YT4gc2VjcmV0RXZlbnRzID0g</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>sessionProvider.getSession(request)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU0FNTDJVdGlscy5nZXRDb25maWdBdHRyaWJ1dGVNYXAocmVhbG0sIGlkcEVudGl0eUlELCAiSURQIik7Cg==</text>
       </register>
       <register name="k" type="4">
         <text>kkkkkjjllllhhlllllllllljkkkjjkkkkkkjjl</text>
       </register>
       <register name="-" type="4">
-        <text>sessionProvider.getSession(request)</text>
+        <text>host</text>
       </register>
       <register name="/" type="4">
         <text>.*&quot;\(.*\)&quot;;</text>
@@ -290,7 +262,7 @@
         <text encoding="base64">CQkJYXJjaGV0eXBlQ2F0YWxvZyA9IEpBWEJDb252ZXJ0ZXIuc3RyaW5nVG9PYmplY3QoYXJjaGV0eXBlQ2F0YWxvZ1R4dCwgQXJjaGV0eXBlQ2F0YWxvZy5jbGFzcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU0FNTDJVdGlscy5nZXRDb25maWdBdHRyaWJ1dGVNYXAocmVhbG0sIGlkcEVudGl0eUlELCAiSURQIik7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -455,19 +427,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlBcmNoZXR5cGVDYXRhbG9nIGFyY2hldHlwZUNhdGFsb2cgPSBKQVhCQ29udmVydGVyLnN0cmluZ1RvT2JqZWN0KGFyY2hldHlwZUNhdGFsb2dUeHQsIEFyY2hldHlwZUNhdGFsb2cuY2xhc3MpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlBcmNoZXR5cGVDYXRhbG9nIGFyY2hldHlwZUNhdGFsb2cgPSBKQVhCQ29udmVydGVyLnN0cmluZ1RvT2JqZWN0KGFyY2hldHlwZUNhdGFsb2dUeHQsIEFyY2hldHlwZUNhdGFsb2cuY2xhc3MpOwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CQlnZXRMb2coKS5pbmZvKCJTZXQgdXAgbG9nZ2luZyIpOwoJCVN5c3RlbS5zZXRQcm9wZXJ0eSgib3JnLmFwYWNoZS5jb21tb25zLmxvZ2dpbmcuTG9nIiwgIm9yZy5hcGFjaGUuY29tbW9ucy5sb2dnaW5nLmltcGwuU2ltcGxlTG9nIik7CgkJU3lzdGVtLnNldFByb3BlcnR5KCJvcmcuYXBhY2hlLmNvbW1vbnMubG9nZ2luZy5zaW1wbGVsb2cuc2hvd2RhdGV0aW1lIiwgInRydWUiKTsKCQlTeXN0ZW0uc2V0UHJvcGVydHkoIm9yZy5hcGFjaGUuY29tbW9ucy5sb2dnaW5nLnNpbXBsZWxvZy5sb2cuaHR0cGNsaWVudC53aXJlLmhlYWRlciIsICJkZWJ1ZyIpOwoJCVN5c3RlbS5zZXRQcm9wZXJ0eSgib3JnLmFwYWNoZS5jb21tb25zLmxvZ2dpbmcuc2ltcGxlbG9nLmxvZy5vcmcuYXBhY2hlLmNvbW1vbnMuaHR0cGNsaWVudCIsICJkZWJ1ZyIpOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>password [&quot;+password+&quot;]</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -479,7 +451,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlodHRwVGVtcGxhdGVrbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/.*&quot;\(.*\)&quot;;/\1/</text>
