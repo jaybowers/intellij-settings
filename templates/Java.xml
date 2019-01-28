@@ -1,5 +1,5 @@
 <templateSet group="Java">
-  <template name="copyright" value="/*&#10; * Copyright $YEAR$ ForgeRock AS. All Rights Reserved&#10; *&#10; * Use of this code requires a commercial software license with ForgeRock AS.&#10; * or with one of its affiliates. All use shall be exclusively subject&#10; * to such license between the licensee and ForgeRock AS.&#10; */&#10;" description="Java source file copyright notice" toReformat="false" toShortenFQNames="true">
+  <template name="copyright" value="/*&#10; * Copyright $YEAR$ ForgeRock AS. All Rights Reserved&#10; *&#10; * Use of this code requires a commercial software license with ForgeRock AS.&#10; * or with one of its affiliates. All use shall be exclusively subject&#10; * to such license between the licensee and ForgeRock AS.&#10; */&#10;" description="Java source file copyright notice" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="YEAR" expression="date(&quot;yyyy&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
