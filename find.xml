@@ -5,6 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -13,11 +14,11 @@
     <mask>*.mxml</mask>
     <mask>*.java,*.groovy</mask>
     <mask>pom.xml</mask>
-    <mask>*.properties</mask>
     <mask>*Guice*.java</mask>
     <mask>amIdRepo</mask>
     <mask>*.xml</mask>
     <mask>*Test.java</mask>
     <mask>*.java</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
