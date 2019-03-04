@@ -7,6 +7,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -17,9 +18,9 @@
     <mask>pom.xml</mask>
     <mask>*Guice*.java</mask>
     <mask>amIdRepo</mask>
-    <mask>*.xml</mask>
     <mask>*Test.java</mask>
     <mask>*.java</mask>
     <mask>*.properties</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
