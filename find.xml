@@ -15,9 +15,9 @@
     <mask>*Test.java</mask>
     <mask>*.py</mask>
     <mask>*.properties</mask>
-    <mask>*.xml</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
     <mask>*.groovy</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
