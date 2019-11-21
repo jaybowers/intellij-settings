@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.groovy" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -18,9 +18,9 @@
     <mask>*Test.java</mask>
     <mask>*.py</mask>
     <mask>*.properties</mask>
-    <mask>*.groovy</mask>
     <mask>pom.xml</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.groovy</mask>
   </component>
 </application>
