@@ -8,7 +8,7 @@
   </tool>
   <tool name="am-auto-setup" description="Auto Set Up AM" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$USER_HOME$/dev/hack/go-startup/bin/am-auto-setup.sh" />
+      <option name="COMMAND" value="$USER_HOME$/checkouts/hackday/go-startup/bin/am-auto-setup.sh" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
