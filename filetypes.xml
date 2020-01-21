@@ -1,8 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="ldif" type="Native" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="docker/Dockerfile" type="PLAIN_TEXT" />
+      <removed_mapping ext="ldif" approved="true" type="Native" />
     </extensionMap>
   </component>
 </application>
