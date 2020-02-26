@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -15,15 +16,15 @@
     <mask>*Guice*.java</mask>
     <mask>amIdRepo</mask>
     <mask>*Test.java</mask>
-    <mask>*.properties</mask>
     <mask>*.groovy</mask>
     <mask>*Test*.java</mask>
     <mask>*.json</mask>
     <mask>*.ldif</mask>
     <mask>pom.xml</mask>
     <mask>*.py</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*Config.java</mask>
+    <mask>*.xml</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
