@@ -20,8 +20,8 @@
     <mask>*.py</mask>
     <mask>*Config.java</mask>
     <mask>*.properties</mask>
-    <mask>pom.xml</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
