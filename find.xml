@@ -16,13 +16,13 @@
     <mask>*Test.java</mask>
     <mask>*.groovy</mask>
     <mask>*Test*.java</mask>
-    <mask>*.json</mask>
     <mask>*.ldif</mask>
     <mask>*.py</mask>
     <mask>*Config.java</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>pom.xml</mask>
+    <mask>*.json</mask>
     <mask>*.xml</mask>
   </component>
 </application>
