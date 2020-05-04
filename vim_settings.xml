@@ -1,6 +1,89 @@
 <application>
-  <component name="VimSettings">
-    <state version="4" enabled="false" />
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>},{</entry>
+        <entry encoding="base64">XDxcXD4=</entry>
+        <entry encoding="base64">XDxlcnJvck1lc3NhZ2VcPg==</entry>
+        <entry>processRe</entry>
+        <entry encoding="base64">XDxwcm9jZXNzUmVxdWVzdFw+</entry>
+        <entry>return</entry>
+        <entry encoding="base64">XDxDb25maWd1cmF0aW9uRXhjZXB0aW9uXD4=</entry>
+        <entry encoding="base64">XDwvXD4=</entry>
+        <entry encoding="base64">XDxDb25maWd1cmF0b3JFeGNlcHRpb25cPg==</entry>
+        <entry encoding="base64">XDxDb25maWd1cmF0b3JFeGNlcHRpb24oIiI=</entry>
+        <entry encoding="base64">XDxhbGxQbHVnaW5zXD4=</entry>
+        <entry encoding="base64">XDx1cGdyYWRlQ29tcGxldGVkXD4=</entry>
+        <entry encoding="base64">XDxpc1VwZ3JhZGVDb21wbGV0ZWRcPg==</entry>
+        <entry>)</entry>
+        <entry>))</entry>
+        <entry>&quot;)</entry>
+        <entry>.*&quot;</entry>
+        <entry>.*?&quot;</entry>
+        <entry>.*\?&quot;</entry>
+        <entry>.*&quot;\(.*\)&quot;;</entry>
+      </history-search>
+      <history-cmd>
+        <entry>wq</entry>
+        <entry>1820</entry>
+        <entry>q</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry encoding="base64">JzwsJz5zL30sey99LFxyL2c=</entry>
+        <entry>set incsearch</entry>
+        <entry>W</entry>
+        <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry>%s/.*&quot;//</entry>
+        <entry>%s/.*?&quot;//</entry>
+        <entry>%s/.*\?&quot;//</entry>
+        <entry>%perldo %s/.*?&quot;//</entry>
+        <entry>%perldo %s/.*&quot;//</entry>
+        <entry>%s/.*&quot;\(.*\)&quot;;/\1/</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/checkouts/3rdparty/maven-archetype-catalog-plugin/src/test/java/it/mexican/plugins/HttpTemplateTest.java" timestamp="1526903072839">
@@ -9,24 +92,11 @@
         <mark key="." line="69" column="79" />
         <mark key="^" line="69" column="79" />
       </file>
-      <file name="$USER_HOME$/checkouts/mine/AudioAuth/src/org/forgerock/auth/audio/midi/Main.java" timestamp="1525958216068">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="9" column="3" />
-        <mark key="^" line="9" column="3" />
-        <mark key="." line="9" column="3" />
-      </file>
       <file name="/a.dummy" timestamp="1539702546896">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-federation/openam-federation-library/src/main/java/com/sun/identity/saml2/plugins/SAML2IDPProxyFRImpl.java" timestamp="1539704520993" />
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-server/pom.xml" timestamp="1526312186331">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/openam-auth-trees/auth-nodes/src/main/java/org/forgerock/openam/auth/nodes/NodesPlugin.java" timestamp="1526034442682">
-        <mark key="[" line="57" column="20" />
-        <mark key="]" line="57" column="31" />
-        <mark key="." line="57" column="31" />
-        <mark key="^" line="57" column="31" />
       </file>
       <file name="$USER_HOME$/checkouts/mine/boom-plugin/src/main/resources/WEB-INF.services/org.forgerock.openam.plugins.AmPlugin" timestamp="1526308332305">
         <mark key="[" line="8" column="0" />
@@ -34,30 +104,22 @@
         <mark key="." line="7" column="36" />
         <mark key="^" line="8" column="43" />
       </file>
-      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-federation/openam-federation-library/src/main/java/org/forgerock/openam/saml2/UtilProxySAMLAuthenticatorLookup.java" timestamp="1539702830700" />
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-server-only/pom.xml" timestamp="1526312177086">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="968" column="0" />
         <mark key="]" line="968" column="0" />
         <mark key="." line="968" column="0" />
       </file>
-      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-federation/openam-federation-library/src/main/java/com/sun/identity/saml2/common/SAML2Utils.java" timestamp="1539703379493" />
-      <file name="$USER_HOME$/checkouts/mine/AudioAuth/pom.xml" timestamp="1525964551185">
-        <mark key="[" line="12" column="24" />
-        <mark key="]" line="12" column="29" />
-        <mark key="." line="12" column="29" />
-        <mark key="^" line="12" column="29" />
-      </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-federation/openam-federation-library/src/main/java/com/sun/identity/saml2/profile/IDPSSOFederate.java" timestamp="1539705110063">
         <mark key="e" line="244" column="43" />
         <mark key="'" line="244" column="43" />
         <mark key="[" line="240" column="16" />
       </file>
-      <file name="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/pom.xml" timestamp="1525964488876">
-        <mark key="'" line="124" column="35" />
-      </file>
       <file name="/Dummy.txt" timestamp="1526463296091">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1537975799016">
+        <mark key="'" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-auth-trees/auth-trees-engine/src/main/java/org/forgerock/openam/auth/nodes/framework/FrameworkNodesPlugin.java" timestamp="1526562021077">
         <mark key="[" line="121" column="0" />
@@ -81,49 +143,11 @@
         <mark key="]" line="163" column="123" />
         <mark key="." line="163" column="123" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1537975799016">
-        <mark key="'" line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/tests/temper-functional-tests/openam-ui-tests/src/test/java/com/forgerock/openam/functionaltest/policy/TestTransactionAuthentication.java" timestamp="1525345836709">
-        <mark key="'" line="1094" column="17" />
-      </file>
-      <file name="$USER_HOME$/checkouts/mine/AudioAuth/src/main/java/org/forgerock/auth/audio/midi/MidiHandlerOrig.java" timestamp="1525967332901">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="13" column="9" />
-        <mark key="]" line="13" column="10" />
-        <mark key="." line="13" column="10" />
-      </file>
-      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-federation/openam-federation-library/src/main/java/com/sun/identity/saml2/meta/SAML2MetaManager.java" timestamp="1539703841527" />
-      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-console/src/main/java/com/sun/identity/console/federation/model/SAMLv2Model.java" timestamp="1539704660461" />
       <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/org/forgerock/openam/plugins/PluginLifecycle.java" timestamp="1526554080087">
         <mark key="'" line="61" column="14" />
         <mark key="[" line="54" column="32" />
         <mark key="]" line="54" column="41" />
         <mark key="." line="54" column="41" />
-      </file>
-      <file name="$USER_HOME$/checkouts/forgerock/forks/AudioAuth/src/org/forgerock/auth/audio/midi/Main.java" timestamp="1525948725423">
-        <mark key="[" line="4" column="44" />
-        <mark key="]" line="5" column="25" />
-        <mark key="." line="5" column="25" />
-        <mark key="^" line="5" column="25" />
-      </file>
-      <file name="$USER_HOME$/checkouts/forgerock/forks/gabor.melkvi/openam/openam-auth-trees/auth-nodes/src/main/resources/org/forgerock/openam/auth/nodes/MididecisionNode.properties" timestamp="1526034724126">
-        <mark key="[" line="8" column="21" />
-        <mark key="]" line="8" column="28" />
-        <mark key="." line="8" column="28" />
-        <mark key="^" line="8" column="28" />
-      </file>
-      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/config/DefaultSummary.java" timestamp="1526305163201">
-        <mark key="[" line="120" column="52" />
-        <mark key="]" line="120" column="49" />
-        <mark key="^" line="120" column="49" />
-        <mark key="." line="120" column="49" />
-      </file>
-      <file name="$USER_HOME$/checkouts/forgerock/forks/openam/openam-core/src/main/java/com/sun/identity/config/wizard/Wizard.java" timestamp="1526304855003">
-        <mark key="[" line="279" column="0" />
-        <mark key="]" line="279" column="12" />
-        <mark key="^" line="279" column="39" />
-        <mark key="." line="279" column="12" />
       </file>
       <file name="$USER_HOME$/checkouts/mine/boom-plugin/src/main/java/org/forgerock/plugins/boom/BoomPlugin.java" timestamp="1526308631864">
         <mark key="[" line="12" column="71" />
@@ -239,6 +263,8 @@
       <jump line="0" column="28" filename="/fragment.java" />
       <jump line="244" column="43" filename="$USER_HOME$/checkouts/forgerock/forks/openam/openam-federation/openam-federation-library/src/main/java/com/sun/identity/saml2/profile/IDPSSOFederate.java" />
     </jumps>
+  </component>
+  <component name="VimRegisterSettings">
     <registers>
       <register name="a" type="4">
         <text encoding="base64">Q29sbGVjdGlvbjxNaWRpSGFuZGxlci5NaWRpRGF0YT4gc2VjcmV0RXZlbnRzID0g</text>
@@ -454,6 +480,8 @@
         <text>%s/.*&quot;\(.*\)&quot;;/\1/</text>
       </register>
     </registers>
+  </component>
+  <component name="VimSearchSettings">
     <search>
       <last-search>.*&quot;\(.*\)&quot;;</last-search>
       <last-offset />
@@ -463,83 +491,12 @@
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search>
-        <entry>},{</entry>
-        <entry encoding="base64">XDxcXD4=</entry>
-        <entry encoding="base64">XDxlcnJvck1lc3NhZ2VcPg==</entry>
-        <entry>processRe</entry>
-        <entry encoding="base64">XDxwcm9jZXNzUmVxdWVzdFw+</entry>
-        <entry>return</entry>
-        <entry encoding="base64">XDxDb25maWd1cmF0aW9uRXhjZXB0aW9uXD4=</entry>
-        <entry encoding="base64">XDwvXD4=</entry>
-        <entry encoding="base64">XDxDb25maWd1cmF0b3JFeGNlcHRpb25cPg==</entry>
-        <entry encoding="base64">XDxDb25maWd1cmF0b3JFeGNlcHRpb24oIiI=</entry>
-        <entry encoding="base64">XDxhbGxQbHVnaW5zXD4=</entry>
-        <entry encoding="base64">XDx1cGdyYWRlQ29tcGxldGVkXD4=</entry>
-        <entry encoding="base64">XDxpc1VwZ3JhZGVDb21wbGV0ZWRcPg==</entry>
-        <entry>)</entry>
-        <entry>))</entry>
-        <entry>&quot;)</entry>
-        <entry>.*&quot;</entry>
-        <entry>.*?&quot;</entry>
-        <entry>.*\?&quot;</entry>
-        <entry>.*&quot;\(.*\)&quot;;</entry>
-      </history-search>
-      <history-cmd>
-        <entry>wq</entry>
-        <entry>1820</entry>
-        <entry>q</entry>
-        <entry encoding="base64">JzwsJz53</entry>
-        <entry encoding="base64">JzwsJz5zL30sey99LFxyL2c=</entry>
-        <entry>set incsearch</entry>
-        <entry>W</entry>
-        <entry>w</entry>
-        <entry encoding="base64">JzwsJz5zb3J0</entry>
-        <entry>%s/.*&quot;//</entry>
-        <entry>%s/.*?&quot;//</entry>
-        <entry>%s/.*\?&quot;//</entry>
-        <entry>%perldo %s/.*?&quot;//</entry>
-        <entry>%perldo %s/.*&quot;//</entry>
-        <entry>%s/.*&quot;\(.*\)&quot;;/\1/</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
-    </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed O</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed H</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed I</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed T</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed N</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="false" />
-    </editor>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="false" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
   </component>
 </application>
