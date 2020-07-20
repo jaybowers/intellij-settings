@@ -42,4 +42,9 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
+  <template name="cuppa" value="import org.forgerock.cuppa.Test;&#10;import org.forgerock.cuppa.junit.CuppaRunner;&#10;import org.junit.runner.RunWith;&#10;&#10;@Test&#10;@RunWith(CuppaRunner.class)&#10;{&#10;    &#10;&#10;}" description="Cuppa tests" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
 </templateSet>
