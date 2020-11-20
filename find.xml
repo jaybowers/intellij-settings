@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -18,12 +19,12 @@
     <mask>*.ldif</mask>
     <mask>*.py</mask>
     <mask>*Config.java</mask>
-    <mask>*.properties</mask>
     <mask>Jenkinsfile</mask>
     <mask>*.json</mask>
     <mask>pom.xml</mask>
     <mask>*Route*.java</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
