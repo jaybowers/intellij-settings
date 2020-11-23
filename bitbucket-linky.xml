@@ -1,0 +1,25 @@
+<application>
+  <component name="BitbucketCloudRegistry">
+    <lookup />
+  </component>
+  <component name="BitbucketServerRegistry">
+    <instances>
+      <instance uuid="06baa01a-2b22-32fa-ada3-e0885a93f529" baseUri="http://stash.forgerock.org/" />
+    </instances>
+    <lookup>
+      <record scheme="ssh" hostname="stash.forgerock.org" port="7999" path="/" uuid="06baa01a-2b22-32fa-ada3-e0885a93f529" />
+    </lookup>
+  </component>
+  <component name="Instance" id="311db156-0516-4a79-8d87-a81f36e151f0" version="2020.2.135" />
+  <component name="UsageLog">
+    <event name="CreatePullRequest" place="keyboard shortcut" timestamp="2020-11-23T15:53:29.865831Z">
+      <attribute name="bitbucket">server</attribute>
+    </event>
+    <event name="CopyLinkToFile" place="keyboard shortcut" timestamp="2020-11-23T15:54:08.084542Z">
+      <attribute name="editor">true</attribute>
+      <attribute name="multipleLines">false</attribute>
+      <attribute name="multipleCarets">false</attribute>
+      <attribute name="bitbucket">server</attribute>
+    </event>
+  </component>
+</application>
