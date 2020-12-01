@@ -24,8 +24,8 @@
     <mask>*.json</mask>
     <mask>pom.xml</mask>
     <mask>*Route*.java</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
     <mask>*.properties</mask>
   </component>
 </application>
