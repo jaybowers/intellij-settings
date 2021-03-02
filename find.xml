@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.ldif" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -15,7 +15,6 @@
     <mask>amIdRepo</mask>
     <mask>*Test.java</mask>
     <mask>*Test*.java</mask>
-    <mask>*.ldif</mask>
     <mask>*.py</mask>
     <mask>*Config.java</mask>
     <mask>Jenkinsfile</mask>
@@ -27,5 +26,6 @@
     <mask>*Module*.java</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.ldif</mask>
   </component>
 </application>
