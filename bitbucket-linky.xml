@@ -11,4 +11,12 @@
     </lookup>
   </component>
   <component name="Instance" id="311db156-0516-4a79-8d87-a81f36e151f0" version="2020.3.142" />
+  <component name="UsageLog">
+    <event name="CopyLinkToFile" place="EditorPopup" timestamp="2021-03-03T11:49:12.686862Z">
+      <attribute name="editor">true</attribute>
+      <attribute name="multipleLines">false</attribute>
+      <attribute name="multipleCarets">false</attribute>
+      <attribute name="bitbucket">server</attribute>
+    </event>
+  </component>
 </application>
