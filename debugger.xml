@@ -4,7 +4,7 @@
     <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapNever" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
-      <option name="ENABLED" value="true" />
+      <option name="ENABLED" value="false" />
       <option name="INCLUDE" value="true" />
     </filter>
     <filter>
