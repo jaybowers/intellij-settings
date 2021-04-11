@@ -10,5 +10,5 @@
       <record scheme="ssh" hostname="stash.forgerock.org" port="7999" path="/" uuid="06baa01a-2b22-32fa-ada3-e0885a93f529" />
     </lookup>
   </component>
-  <component name="Instance" id="311db156-0516-4a79-8d87-a81f36e151f0" version="2020.3.142" />
+  <component name="Instance" id="311db156-0516-4a79-8d87-a81f36e151f0" version="2021.1.163" />
 </application>
