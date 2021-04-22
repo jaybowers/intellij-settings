@@ -3,6 +3,7 @@
     <option name="customScope" value="Project production files" />
     <option name="defaultScopeName" value="Project production files" />
     <option name="SEARCH_SCOPE" value="Project production files" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -19,12 +20,12 @@
     <mask>Jenkinsfile</mask>
     <mask>*Route*.java</mask>
     <mask>*.json</mask>
-    <mask>*.properties</mask>
     <mask>*.groovy</mask>
     <mask>*Module*.java</mask>
     <mask>*.ldif</mask>
     <mask>pom.xml</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
