@@ -1,9 +1,13 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project production files" />
     <option name="defaultScopeName" value="Project production files" />
+    <option name="regularExpressions" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project production files" />
-    <option name="FILE_MASK" value="*.properties" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -25,7 +29,7 @@
     <mask>*.ldif</mask>
     <mask>pom.xml</mask>
     <mask>*.xml</mask>
-    <mask>*.java</mask>
     <mask>*.properties</mask>
+    <mask>*.java</mask>
   </component>
 </application>
