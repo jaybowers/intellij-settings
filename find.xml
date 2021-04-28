@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project production files" />
-    <option name="FILE_MASK" value="*Config.java" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -25,10 +25,10 @@
     <mask>*Module*.java</mask>
     <mask>*.ldif</mask>
     <mask>pom.xml</mask>
-    <mask>*.xml</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>build.bazel</mask>
     <mask>*Config.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
