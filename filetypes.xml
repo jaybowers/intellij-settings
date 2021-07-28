@@ -5,8 +5,8 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".storepass" type="PLAIN_TEXT" />
-      <mapping pattern="docker/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="REVIEWER-NOTES" type="PLAIN_TEXT" />
+      <mapping pattern="docker/Dockerfile" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="fbc" type="PLAIN_TEXT" />
       <mapping ext="parameters" type="PLAIN_TEXT" />
