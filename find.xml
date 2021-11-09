@@ -5,7 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project production files" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -25,12 +25,12 @@
     <mask>*.section.properties</mask>
     <mask>*.groovy</mask>
     <mask>pom.xml</mask>
+    <mask>*Guice.java</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
-    <mask>*.xml</mask>
     <mask>*.jsp</mask>
-    <mask>*.properties</mask>
-    <mask>*Guice.java</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
