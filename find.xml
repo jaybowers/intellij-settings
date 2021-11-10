@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project production files" />
     <option name="defaultScopeName" value="Project production files" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project production files" />
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -27,9 +25,9 @@
     <mask>*Guice.java</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
-    <mask>*.xml</mask>
-    <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
