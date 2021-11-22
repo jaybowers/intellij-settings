@@ -3,11 +3,11 @@
     <option name="customScope" value="Project production files" />
     <option name="defaultScopeName" value="Project production files" />
     <option name="SEARCH_SCOPE" value="Project production files" />
+    <option name="FILE_MASK" value="*Guice*.java" />
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.java,*.groovy</mask>
-    <mask>*Guice*.java</mask>
     <mask>amIdRepo</mask>
     <mask>*Test.java</mask>
     <mask>*Test*.java</mask>
@@ -29,5 +29,6 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*Guice*.java</mask>
   </component>
 </application>
