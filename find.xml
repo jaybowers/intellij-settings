@@ -23,13 +23,13 @@
     <mask>*.groovy</mask>
     <mask>pom.xml</mask>
     <mask>*Guice.java</mask>
+    <mask>*Guice*.java</mask>
+    <mask>*Node*.java</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*Guice*.java</mask>
-    <mask>*Node*.java</mask>
     <mask>*.xml</mask>
   </component>
 </application>
