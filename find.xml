@@ -3,6 +3,7 @@
     <option name="customScope" value="Project Production Files" />
     <option name="defaultScopeName" value="Project Production Files" />
     <option name="SEARCH_SCOPE" value="Project Production Files" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -13,7 +14,6 @@
     <mask>*.py</mask>
     <mask>Jenkinsfile</mask>
     <mask>*Route*.java</mask>
-    <mask>*.json</mask>
     <mask>*Module*.java</mask>
     <mask>*.ldif</mask>
     <mask>build.bazel</mask>
@@ -31,5 +31,6 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*.json</mask>
   </component>
 </application>
