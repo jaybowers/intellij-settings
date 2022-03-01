@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -12,7 +13,6 @@
     <mask>amIdRepo</mask>
     <mask>*Test.java</mask>
     <mask>*Test*.java</mask>
-    <mask>*.py</mask>
     <mask>Jenkinsfile</mask>
     <mask>*Route*.java</mask>
     <mask>*Module*.java</mask>
@@ -33,5 +33,6 @@
     <mask>*.json</mask>
     <mask>*.java</mask>
     <mask>pom.xml</mask>
+    <mask>*.py</mask>
   </component>
 </application>
