@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="OAuth2Provider.json" />
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -31,5 +32,6 @@
     <mask>*.py</mask>
     <mask>*.java</mask>
     <mask>*.properties</mask>
+    <mask>OAuth2Provider.json</mask>
   </component>
 </application>
